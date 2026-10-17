@@ -1,0 +1,601 @@
+title,rank,date,artist,url,region,chart,trend,streams
+Chantaje (feat. Maluma),1,2017-01-01,Shakira,https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg,Argentina,top200,SAME_POSITION,253019
+Vente Pa' Ca (feat. Maluma),2,2017-01-01,Ricky Martin,https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46,Argentina,top200,MOVE_UP,223988
+Reggaetón Lento (Bailemos),3,2017-01-01,CNCO,https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo,Argentina,top200,MOVE_DOWN,210943
+Safari,4,2017-01-01,"J Balvin, Pharrell Williams, BIA, Sky",https://open.spotify.com/track/6rQSrBHf7HlZjtcMZ4S4bO,Argentina,top200,SAME_POSITION,173865
+Shaky Shaky,5,2017-01-01,Daddy Yankee,https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf,Argentina,top200,MOVE_UP,153956
+Traicionera,6,2017-01-01,Sebastian Yatra,https://open.spotify.com/track/5J1c3M4EldCfNxXwrwt8mT,Argentina,top200,MOVE_DOWN,151140
+Cuando Se Pone a Bailar,7,2017-01-01,Rombai,https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH,Argentina,top200,MOVE_DOWN,148369
+Otra vez (feat. J Balvin),8,2017-01-01,Zion & Lennox,https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq,Argentina,top200,MOVE_DOWN,143004
+La Bicicleta,9,2017-01-01,"Carlos Vives, Shakira",https://open.spotify.com/track/0sXvAOmXgjR2QUqLK1MltU,Argentina,top200,MOVE_UP,126389
+Dile Que Tu Me Quieres,10,2017-01-01,Ozuna,https://open.spotify.com/track/20ZAJdsKB5IGbGj4ilRt2o,Argentina,top200,MOVE_DOWN,112012
+Andas En Mi Cabeza,11,2017-01-01,"Chino & Nacho, Daddy Yankee",https://open.spotify.com/track/5mey7CLLuFToM2P68Qu1gF,Argentina,top200,SAME_POSITION,110395
+Desde Esa Noche (feat. Maluma),12,2017-01-01,Thalia,https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E,Argentina,top200,MOVE_UP,104592
+Borro Cassette,13,2017-01-01,Maluma,https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN,Argentina,top200,MOVE_UP,101535
+Gyal You A Party Animal - Remix,14,2017-01-01,"Charly Black, Daddy Yankee",https://open.spotify.com/track/1AkTW13ysu0AJrwuM6UY0I,Argentina,top200,MOVE_DOWN,99722
+Me llamas (feat. Maluma) - Remix,15,2017-01-01,Piso 21,https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX,Argentina,top200,MOVE_DOWN,95010
+La Bicicleta (feat. Maluma) - Remix,16,2017-01-01,"Carlos Vives, Shakira",https://open.spotify.com/track/7IRuf7FrdQvOGs0g9mSNGr,Argentina,top200,MOVE_UP,92723
+DUELE EL CORAZON (feat. Wisin),17,2017-01-01,Enrique Iglesias,https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf,Argentina,top200,MOVE_UP,91325
+Let Me Love You,18,2017-01-01,"DJ Snake, Justin Bieber",https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m,Argentina,top200,MOVE_DOWN,87926
+La Noche No Es para Dormir,19,2017-01-01,Mano Arriba,https://open.spotify.com/track/3gEebOzxHpEwElicl1XBy0,Argentina,top200,SAME_POSITION,87033
+Vacaciones,20,2017-01-01,Wisin,https://open.spotify.com/track/3dQDid3IUNhZy1OehIfYfE,Argentina,top200,MOVE_DOWN,86103
+Rockabye (feat. Sean Paul & Anne-Marie),21,2017-01-01,Clean Bandit,https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW,Argentina,top200,SAME_POSITION,76123
+Carnavalintro,22,2017-01-01,Chano,https://open.spotify.com/track/0tGAPnTFwRJA6FZgYZ0BAe,Argentina,top200,MOVE_UP,71963
+"Ay Mi Dios (feat. Pitbull, Yandel & Chacal)",23,2017-01-01,"IAmChino, El Chacal",https://open.spotify.com/track/6stYbAJgTszHAHZMPxWWCY,Argentina,top200,MOVE_UP,71892
+One Dance,24,2017-01-01,"Drake, WizKid, Kyla",https://open.spotify.com/track/1xznGGDReH1oQq0xzbwXa3,Argentina,top200,MOVE_UP,71498
+My Way,25,2017-01-01,Calvin Harris,https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm,Argentina,top200,SAME_POSITION,70795
+Cold Water (feat. Justin Bieber & MØ),26,2017-01-01,Major Lazer,https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p,Argentina,top200,SAME_POSITION,70260
+La Gozadera (feat. Marc Anthony),27,2017-01-01,Gente De Zona,https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9,Argentina,top200,MOVE_UP,70028
+Llamame Mas Temprano,28,2017-01-01,Mano Arriba,https://open.spotify.com/track/5aHJug2wnupoGfgfxRudsk,Argentina,top200,MOVE_UP,69382
+Starboy,29,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z,Argentina,top200,SAME_POSITION,65518
+Manicomio,30,2017-01-01,Cosculluela,https://open.spotify.com/track/3n58u3LOFw8mITLvfPvQBz,Argentina,top200,MOVE_DOWN,64998
+"Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",31,2017-01-01,Maluma,https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR,Argentina,top200,MOVE_DOWN,64907
+Don't Wanna Know,32,2017-01-01,"Maroon 5, Kendrick Lamar",https://open.spotify.com/track/5MFzQMkrl1FOOng9tq6R9r,Argentina,top200,MOVE_DOWN,61714
+Sin Contrato (feat. Don Omar & Wisin) - Remix,33,2017-01-01,Maluma,https://open.spotify.com/track/2xNZeeqmwMPVKnD7FSQfgt,Argentina,top200,MOVE_UP,59903
+24K Magic,34,2017-01-01,Bruno Mars,https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P,Argentina,top200,MOVE_DOWN,58801
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",35,2017-01-01,Justin Timberlake,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc,Argentina,top200,MOVE_UP,56170
+Fuego,36,2017-01-01,Juanes,https://open.spotify.com/track/0mwPE0lPOgnWf2bo14xedJ,Argentina,top200,MOVE_UP,55902
+Bobo,37,2017-01-01,J Balvin,https://open.spotify.com/track/7AtlMCIauSQZqiXSlbBPW6,Argentina,top200,MOVE_UP,55360
+In the Name of Love,38,2017-01-01,"Martin Garrix, Bebe Rexha",https://open.spotify.com/track/04DwTuZ2VBdJCCC5TROn7L,Argentina,top200,MOVE_DOWN,54980
+Tu Ritmo,39,2017-01-01,Los Bonnitos,https://open.spotify.com/track/0BFgCEE7ozbyB1PpLpLyhM,Argentina,top200,MOVE_UP,54081
+I Took A Pill In Ibiza - Seeb Remix,40,2017-01-01,Mike Posner,https://open.spotify.com/track/17Fd6Yb7mSbinKG8LoWfFl,Argentina,top200,MOVE_DOWN,53270
+Ya Me Enteré (feat. Nicky Jam) - Urban Version,41,2017-01-01,Reik,https://open.spotify.com/track/2SSYqDX8KTgy01NlqtUo0F,Argentina,top200,MOVE_DOWN,52907
+No Quiere Enamorarse (Remix) [feat. Daddy Yankee],42,2017-01-01,Ozuna,https://open.spotify.com/track/4vlbjBSMqycZk6t4HVRpnC,Argentina,top200,MOVE_DOWN,52670
+Te Quiero Pa´Mi,43,2017-01-01,"Don Omar, Zion & Lennox",https://open.spotify.com/track/3BY2mafsbsoKGqS380Xnuz,Argentina,top200,MOVE_DOWN,51352
+Sin Contrato (feat. Fifth Harmony),44,2017-01-01,Maluma,https://open.spotify.com/track/09S64DUkxIX9EwIaULu6yN,Argentina,top200,MOVE_UP,51115
+Picky,45,2017-01-01,Joey Montana,https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx,Argentina,top200,MOVE_UP,51113
+Work,46,2017-01-01,"Rihanna, Drake",https://open.spotify.com/track/14WWzenpaEgQZlqPq2nk4v,Argentina,top200,MOVE_DOWN,50655
+Noche Loca,47,2017-01-01,"Marama, Rombai",https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD,Argentina,top200,MOVE_UP,49100
+Don't Let Me Down (feat. Daya),48,2017-01-01,The Chainsmokers,https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm,Argentina,top200,MOVE_DOWN,48767
+Hasta el Amanecer,49,2017-01-01,Nicky Jam,https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS,Argentina,top200,MOVE_UP,47672
+Le Hace Falta un Beso,50,2017-01-01,Agapornis,https://open.spotify.com/track/300xUYXWhFA6Q1sbNvVItP,Argentina,top200,MOVE_UP,45251
+Cake By The Ocean,51,2017-01-01,DNCE,https://open.spotify.com/track/2aFiaMXmWsM3Vj72F9ksBl,Argentina,top200,SAME_POSITION,44524
+Chillax (feat. Ky-Mani Marley),52,2017-01-01,Farruko,https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES,Argentina,top200,MOVE_DOWN,44495
+Loquita,53,2017-01-01,Marama,https://open.spotify.com/track/2xjcDF21U2ccgE2LEeiMbf,Argentina,top200,MOVE_UP,43894
+Te Vas,54,2017-01-01,Ozuna,https://open.spotify.com/track/2twUPIYOTqVivev47pf7bU,Argentina,top200,MOVE_DOWN,43704
+Closer,55,2017-01-01,"The Chainsmokers, Halsey",https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw,Argentina,top200,MOVE_DOWN,43403
+Locuras contigo,56,2017-01-01,Rombai,https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg,Argentina,top200,MOVE_UP,43260
+Treat You Better,57,2017-01-01,Shawn Mendes,https://open.spotify.com/track/4Hf7WnR761jpxPr5D46Bcd,Argentina,top200,MOVE_DOWN,42815
+Era Tranquila,58,2017-01-01,Marama,https://open.spotify.com/track/5OqaLWo9WbNPWDilrwNwzt,Argentina,top200,MOVE_UP,42785
+Baila,59,2017-01-01,Agapornis,https://open.spotify.com/track/3iS4VBJ3Bg1HyL3e6WNpgi,Argentina,top200,SAME_POSITION,42127
+Nena,60,2017-01-01,Marama,https://open.spotify.com/track/347TStOSY6IOqMB84Rpxwk,Argentina,top200,MOVE_UP,41737
+Deja De Llorar,61,2017-01-01,El Polaco,https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe,Argentina,top200,MOVE_UP,40065
+El Perdedor,62,2017-01-01,Maluma,https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O,Argentina,top200,MOVE_DOWN,39691
+Traicionera - Remix,63,2017-01-01,"Sebastian Yatra, Cosculluela, Cali Y El Dandee",https://open.spotify.com/track/2webQDZmtGioeu3zUUi9We,Argentina,top200,MOVE_DOWN,37518
+Yo te propongo,64,2017-01-01,Rombai,https://open.spotify.com/track/0YFoSD5VhoVrRbrnFERpVM,Argentina,top200,MOVE_UP,36808
+El Perdedor (feat. Yandel) - The Remix,65,2017-01-01,Maluma,https://open.spotify.com/track/4QsPTKvdpgkA7mBAvclZTa,Argentina,top200,MOVE_DOWN,36510
+Lo Intentamos,66,2017-01-01,Marama,https://open.spotify.com/track/4Kzk0koKwzCMiIx4rAqCZp,Argentina,top200,MOVE_UP,35965
+Hasta la luna,67,2017-01-01,#TocoParaVos,https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7,Argentina,top200,MOVE_UP,35806
+Comerte a Besos,68,2017-01-01,"Pijama Party, Cande Buasso",https://open.spotify.com/track/4UHZMWgKDjJ1zS0t6f6qPv,Argentina,top200,MOVE_DOWN,34879
+La Mordidita (feat. Yotuel),69,2017-01-01,Ricky Martin,https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm,Argentina,top200,MOVE_UP,34638
+Ginza,70,2017-01-01,J Balvin,https://open.spotify.com/track/5N8nNuTmIzkZOfcxXlygUw,Argentina,top200,MOVE_UP,34542
+Call On Me - Ryan Riback Extended Remix,71,2017-01-01,Starley,https://open.spotify.com/track/78rIJddV4X0HkNAInEcYde,Argentina,top200,MOVE_DOWN,33892
+El Perdón,72,2017-01-01,"Nicky Jam, Enrique Iglesias",https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr,Argentina,top200,MOVE_UP,33188
+Pasarla Bien,73,2017-01-01,Marama,https://open.spotify.com/track/0ZzVPCGdkpKcxAzMNDD5UZ,Argentina,top200,MOVE_UP,33111
+No Llores,74,2017-01-01,LOAN,https://open.spotify.com/track/07GOnZWIiHWjLzUsaTv5yO,Argentina,top200,MOVE_DOWN,32778
+Would I Lie to You - Radio Edit,75,2017-01-01,"David Guetta, Cedric Gervais, Chris Willis",https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2,Argentina,top200,MOVE_DOWN,32198
+I Feel It Coming,76,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt,Argentina,top200,MOVE_DOWN,30754
+Baila Conmigo,77,2017-01-01,"Juan Magán, Luciana",https://open.spotify.com/track/772io14jrMTxGJbijtDccQ,Argentina,top200,MOVE_UP,30623
+Una Cerveza,78,2017-01-01,Rafaga,https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII,Argentina,top200,MOVE_UP,30368
+Me Ama Me Odia,79,2017-01-01,"Ozuna, Cosculluela, Revol",https://open.spotify.com/track/6041gM9Th1ViQcnzkIxnuv,Argentina,top200,MOVE_DOWN,29979
+Just Hold On,80,2017-01-01,"Steve Aoki, Louis Tomlinson",https://open.spotify.com/track/3EmmCZoqpWOTY1g2GBwJoR,Argentina,top200,MOVE_DOWN,29609
+Side To Side,81,2017-01-01,"Ariana Grande, Nicki Minaj",https://open.spotify.com/track/4pLwZjInHj3SimIyN9SnOz,Argentina,top200,MOVE_DOWN,29228
+Bailame Despacio,82,2017-01-01,"Xantos, Dynell",https://open.spotify.com/track/4OaTpLJIa2harufGxfOPUu,Argentina,top200,MOVE_DOWN,28781
+Todo Comenzó Bailando,83,2017-01-01,Marama,https://open.spotify.com/track/2rrWhFrcSZcZQ2SDKPGKQ6,Argentina,top200,MOVE_UP,28728
+Cheap Thrills Remix (feat. Nicky Jam),84,2017-01-01,Sia,https://open.spotify.com/track/59iNA6gwthoTJ6IgpBGGHW,Argentina,top200,MOVE_UP,28288
+Se Pone Loca,85,2017-01-01,"CantoParaBailar, Lucas Sugo",https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4,Argentina,top200,MOVE_UP,27694
+Cheap Thrills,86,2017-01-01,Sia,https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j,Argentina,top200,MOVE_DOWN,26885
+Work from Home (feat. Ty Dolla $ign),87,2017-01-01,Fifth Harmony,https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb,Argentina,top200,MOVE_DOWN,26840
+We Don't Talk Anymore (feat. Selena Gomez),88,2017-01-01,Charlie Puth,https://open.spotify.com/track/68EMU2RD1ECNeOeJ5qAXCV,Argentina,top200,MOVE_DOWN,26777
+"Diles (feat. Arcangel, Nengo Flow, Dj Luian & Mambo Kings)",89,2017-01-01,"Ozuna, Bad Bunny, Farruko, Ñengo Flow",https://open.spotify.com/track/2FrnTVSHjgnEylKGdHRUK1,Argentina,top200,MOVE_DOWN,25622
+Pájaro Cantor,90,2017-01-01,Abel Pintos,https://open.spotify.com/track/16rQTTMtbn0ODLyflr0O6Q,Argentina,top200,MOVE_UP,25525
+Hasta Que Se Seque el Malecón (feat. Farruko) - Remix,91,2017-01-01,Jacob Forever,https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t,Argentina,top200,MOVE_UP,24999
+Amor y dolor,92,2017-01-01,"Carlos Baute, Alexis y Fido",https://open.spotify.com/track/4efQTJSX6Jca1hHZNi74Zd,Argentina,top200,MOVE_DOWN,24874
+Si Te Vas,93,2017-01-01,Agapornis,https://open.spotify.com/track/3HoTiqEEY2SmTeq1XGINo3,Argentina,top200,MOVE_UP,24819
+Papi Shampu,94,2017-01-01,Papichamp,https://open.spotify.com/track/0o221VNm4azkzYYLtxDGgV,Argentina,top200,MOVE_UP,24369
+Ruleta Rusa,95,2017-01-01,Kevin Roldan,https://open.spotify.com/track/77KHmKnBmVGTjRCeMVXpWH,Argentina,top200,MOVE_DOWN,24358
+Dale Tu Amor (feat. El Polaco),96,2017-01-01,Agapornis,https://open.spotify.com/track/3W9HjL7lmbYXL4kQ1kicH3,Argentina,top200,MOVE_UP,24345
+Me Reclama,97,2017-01-01,"Mambo Kingz, DJ Luian, Luigi 21 Plus, Ozuna",https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg,Argentina,top200,MOVE_DOWN,24260
+Márchate ahora,98,2017-01-01,Los Totora,https://open.spotify.com/track/3voxukrHBXctzxdSbCycey,Argentina,top200,MOVE_UP,24133
+Bronceado,99,2017-01-01,Marama,https://open.spotify.com/track/4smbzhaRt7EYwO73SmFXyR,Argentina,top200,MOVE_UP,24077
+Te Vas - Version Cumbia,100,2017-01-01,"aLee DJ, Zeta Music",https://open.spotify.com/track/0j8zA8KrITjLVoAm3H3X6u,Argentina,top200,MOVE_UP,23981
+Bailando - Spanish Version,101,2017-01-01,"Enrique Iglesias, Descemer Bueno, Gente De Zona",https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E,Argentina,top200,MOVE_UP,23646
+Llegaste tú (feat. Reykon),102,2017-01-01,Sofía Reyes,https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL,Argentina,top200,MOVE_DOWN,23181
+Corazon De Seda (feat. Ozuna),155,2017-01-01,Klasico,https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT,Argentina,top200,MOVE_DOWN,18065
+Por Fin Te Encontré,103,2017-01-01,"Cali Y El Dandee, Juan Magán, Sebastian Yatra",https://open.spotify.com/track/3GpvoKKWZyTwgbLEM9RmWM,Argentina,top200,SAME_POSITION,23178
+Fuiste,104,2017-01-01,Gilda,https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h,Argentina,top200,NEW_ENTRY,23090
+No Me Arrepiento de Este Amor,105,2017-01-01,Gilda,https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz,Argentina,top200,NEW_ENTRY,23046
+Encantadora (feat. Farruko & Zion & Lennox) - Remix,106,2017-01-01,"Yandel, Egbert Rosa aka Haze",https://open.spotify.com/track/0EpFfFZpCuqYFzHvxOtrZS,Argentina,top200,MOVE_DOWN,22948
+Si Te Dejas Llevar (feat. Juanka),107,2017-01-01,Ozuna,https://open.spotify.com/track/7rDi4fIeHSM3KAUYAKYMMN,Argentina,top200,MOVE_DOWN,22878
+Sola Otra Vez,108,2017-01-01,El Polaco,https://open.spotify.com/track/1zwH02KhFWC4wOtiZ1We1g,Argentina,top200,MOVE_UP,22560
+Curiosidad,109,2017-01-01,Rombai,https://open.spotify.com/track/4PCVVIrUDldF5r7RXtOB5W,Argentina,top200,MOVE_UP,22396
+Te Amo y Odio,110,2017-01-01,Marama,https://open.spotify.com/track/5TA9pPL5ATRFcyI9rRBMQ0,Argentina,top200,MOVE_UP,22073
+The Greatest (feat. Kendrick Lamar),111,2017-01-01,Sia,https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO,Argentina,top200,MOVE_DOWN,22060
+Ride,112,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW,Argentina,top200,MOVE_DOWN,22015
+Mi tesoro (feat. Nicky Jam),113,2017-01-01,Zion & Lennox,https://open.spotify.com/track/5HABnFSYvl6mTmg8nSdzHa,Argentina,top200,MOVE_DOWN,21803
+743,114,2017-01-01,Miranda!,https://open.spotify.com/track/08WLghN4UZFMGN532uvako,Argentina,top200,SAME_POSITION,21584
+Dame la Mano,115,2017-01-01,Los Bonnitos,https://open.spotify.com/track/2zrcunkMh2pG74NKLQagf7,Argentina,top200,MOVE_UP,21405
+Love Yourself,116,2017-01-01,Justin Bieber,https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT,Argentina,top200,MOVE_DOWN,21354
+Una historia,117,2017-01-01,#TocoParaVos,https://open.spotify.com/track/6Ol4gn2vFyn4dckha1fGaN,Argentina,top200,MOVE_UP,21108
+La Llave,118,2017-01-01,Agapornis,https://open.spotify.com/track/1v78qANb9b176fgEzR2eaW,Argentina,top200,MOVE_UP,20952
+De Pies A Cabeza,119,2017-01-01,"Maná, Nicky Jam",https://open.spotify.com/track/2CkHE54EH44Qj945ynQRw7,Argentina,top200,MOVE_DOWN,20942
+Me Estoy Enamorando,120,2017-01-01,Agapornis,https://open.spotify.com/track/0mX14Kpe4VTYmkqRgGslT5,Argentina,top200,MOVE_UP,20900
+Ella,121,2017-01-01,Agapornis,https://open.spotify.com/track/6LxbbZYulsV3tCZvKpJgSh,Argentina,top200,SAME_POSITION,20643
+This Is What You Came For (feat. Rihanna),122,2017-01-01,Calvin Harris,https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y,Argentina,top200,MOVE_DOWN,20349
+Andas En Mi Cabeza - Remix,123,2017-01-01,"Chino & Nacho, Daddy Yankee, Don Omar, Wisin",https://open.spotify.com/track/733ybNEEEXHYxfk8sK6MRO,Argentina,top200,MOVE_DOWN,20121
+This Girl (Kungs Vs. Cookin' On 3 Burners),124,2017-01-01,Kungs,https://open.spotify.com/track/0tICYNayWWhH9GPeFrfjfD,Argentina,top200,MOVE_DOWN,19920
+Yo Tomo Licor,125,2017-01-01,Amar Azul,https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU,Argentina,top200,NEW_ENTRY,19889
+Hoy,126,2017-01-01,Agapornis,https://open.spotify.com/track/11aJTEmPwKKoKRTpsudE1H,Argentina,top200,MOVE_UP,19864
+Sorry,127,2017-01-01,Justin Bieber,https://open.spotify.com/track/69bp2EbF7Q2rqc5N3ylezZ,Argentina,top200,MOVE_DOWN,19775
+No Te Vayas,128,2017-01-01,Marama,https://open.spotify.com/track/6lip7aGS7oXloGk1XFCqWH,Argentina,top200,MOVE_UP,19753
+Un Beso,129,2017-01-01,"Danny Paz, El Villano",https://open.spotify.com/track/0mDYDLR1KToBR4plxAj4O4,Argentina,top200,MOVE_UP,19697
+Hoy Acá en el Baile (Cara de Gitana) - Versión el Pepo,130,2017-01-01,El Pepo,https://open.spotify.com/track/74onbSJ49kgKFGrwUwY9oC,Argentina,top200,NEW_ENTRY,19577
+Fanática Sensual,131,2017-01-01,Plan B,https://open.spotify.com/track/1BygxKyZjq2xjQiFMkSFGp,Argentina,top200,MOVE_UP,19523
+Trumpets,132,2017-01-01,"Sak Noel & Salvi, Sean Paul",https://open.spotify.com/track/5dH7o4TP3HYLvCjo4QAhhv,Argentina,top200,MOVE_DOWN,19427
+"Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",133,2017-01-01,Anuel AA,https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65,Argentina,top200,MOVE_DOWN,19335
+Heathens,134,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr,Argentina,top200,MOVE_DOWN,19334
+Ocho Cuarenta,135,2017-01-01,Rodrigo,https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE,Argentina,top200,NEW_ENTRY,19319
+El Taxi,136,2017-01-01,"Pitbull, Sensato, Osmani Garcia ""La Voz""",https://open.spotify.com/track/501PoxE6Qti2ekECimQeXK,Argentina,top200,NEW_ENTRY,19272
+The Mack,137,2017-01-01,"Nevada, Mark Morrison, Fetty Wap",https://open.spotify.com/track/7aV2mflaASUmGhCErm7kBO,Argentina,top200,MOVE_DOWN,19192
+Que Bonito,138,2017-01-01,Banda XXI,https://open.spotify.com/track/3XmpHN0jwCV1unk8ygs1Ku,Argentina,top200,NEW_ENTRY,19093
+El chisme,139,2017-01-01,Reykon,https://open.spotify.com/track/4VXejnj5WgM6H72ct2fSgQ,Argentina,top200,MOVE_DOWN,18931
+Hymn for the Weekend - Seeb Remix,140,2017-01-01,Coldplay,https://open.spotify.com/track/1OAiWI2oPmglaOiv9fdioU,Argentina,top200,MOVE_DOWN,18823
+Acércate (feat. Nicky Jam) - Remix,141,2017-01-01,De La Ghetto,https://open.spotify.com/track/35OC6rMxa8lJi8eDiUVShS,Argentina,top200,MOVE_DOWN,18810
+Si ella quisiera,142,2017-01-01,Justin Quiles,https://open.spotify.com/track/7cIkMEpDhT7Vpw1FHOQqKC,Argentina,top200,MOVE_DOWN,18769
+El Bombón,143,2017-01-01,Los Palmeras,https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6,Argentina,top200,NEW_ENTRY,18741
+Hello,144,2017-01-01,"KAROL G, Ozuna",https://open.spotify.com/track/1PGENMzwUy16wlpZiuLS65,Argentina,top200,MOVE_DOWN,18555
+Cuando Me Enamoro,145,2017-01-01,Banda XXI,https://open.spotify.com/track/7IUFDlflcQjHNxg8H0us34,Argentina,top200,NEW_ENTRY,18527
+Yo tambien,146,2017-01-01,Rombai,https://open.spotify.com/track/1EK5Sm4E09P1lcdyKsygoV,Argentina,top200,MOVE_UP,18433
+Soy Cordobes,147,2017-01-01,Rodrigo,https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS,Argentina,top200,NEW_ENTRY,18428
+Linda,148,2017-01-01,Marka Akme,https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj,Argentina,top200,MOVE_UP,18284
+Nunca me Faltes,149,2017-01-01,Antonio Rios,https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW,Argentina,top200,NEW_ENTRY,18253
+Segundas Intenciones,150,2017-01-01,Rombai,https://open.spotify.com/track/1y2jGfgALBBNZL6tXPI2Ke,Argentina,top200,MOVE_UP,18247
+La Ventanita,151,2017-01-01,Grupo Sombras,https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2,Argentina,top200,NEW_ENTRY,18237
+Chica Real,152,2017-01-01,El Villano,https://open.spotify.com/track/0KrNNpgu7qGQPNQAQBLGwX,Argentina,top200,MOVE_UP,18209
+Pierde Los Modales,153,2017-01-01,"J Balvin, Daddy Yankee",https://open.spotify.com/track/4r3itKA9HEJo48RG65OEnt,Argentina,top200,MOVE_DOWN,18126
+Una Cita - Remix,154,2017-01-01,"Alkilados, Nicky Jam, J Alvarez, El Roockie",https://open.spotify.com/track/6v3QCw4ca5cR4VkzpG0PHy,Argentina,top200,MOVE_DOWN,18103
+743,88,2017-01-02,Miranda!,https://open.spotify.com/track/08WLghN4UZFMGN532uvako,Argentina,top200,MOVE_UP,20351
+Olvídala,156,2017-01-01,Banda XXI,https://open.spotify.com/track/1cJNFxiyjh8Ooqg5U4752G,Argentina,top200,NEW_ENTRY,17636
+La Cumbita,157,2017-01-01,Tambó Tambó,https://open.spotify.com/track/4De1d3fqH4Pnb6K20sRVBa,Argentina,top200,NEW_ENTRY,17626
+Si me dices que sí (feat. Nicky Jam),158,2017-01-01,Cosculluela,https://open.spotify.com/track/3noN1TxpjbjjmKqssghvg8,Argentina,top200,MOVE_DOWN,17442
+Otra copa (feat. Farruko),159,2017-01-01,Justin Quiles,https://open.spotify.com/track/5KX51uLJYo1S1MmITG7lHD,Argentina,top200,MOVE_DOWN,17336
+Hola,160,2017-01-01,Joey Montana,https://open.spotify.com/track/03h8eaVgdJJ14cCKiO4ONX,Argentina,top200,MOVE_DOWN,17168
+No Me Olvides,161,2017-01-01,La Beriso,https://open.spotify.com/track/7LDUiraavMZ6mb8hK3mXkj,Argentina,top200,MOVE_DOWN,17000
+Adios,162,2017-01-01,Rombai,https://open.spotify.com/track/6cwrN0Go9VBDFj4n7riKPU,Argentina,top200,NEW_ENTRY,16874
+Acá Estoy,163,2017-01-01,El Reja,https://open.spotify.com/track/5LRSzLW5nw0j1tglHlNOHp,Argentina,top200,SAME_POSITION,16865
+Stressed Out,164,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn,Argentina,top200,MOVE_DOWN,16845
+Si Ella Quisiera - Remix,165,2017-01-01,"Justin Quiles, Yandel, Gadiel",https://open.spotify.com/track/0A2h9QjoPdbVwa9LFiijqM,Argentina,top200,MOVE_DOWN,16789
+Amores Como el Nuestro,166,2017-01-01,Los Charros,https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n,Argentina,top200,NEW_ENTRY,16760
+Taste Of Love,167,2017-01-01,Maxi Trusso,https://open.spotify.com/track/0Xry4aZncthPqpSjFhgsHl,Argentina,top200,MOVE_DOWN,16734
+Que Raro,168,2017-01-01,"Feid, J Balvin",https://open.spotify.com/track/3kg9JvQe6QJFKUQCN1oIQz,Argentina,top200,MOVE_DOWN,16670
+Te busco (feat. Nicky Jam),169,2017-01-01,Cosculluela,https://open.spotify.com/track/6wHm04cn5HxK6pE2ITEdUS,Argentina,top200,MOVE_DOWN,16642
+I Will Be There (feat. ChocQuibTown),170,2017-01-01,"Agapornis, Come & C",https://open.spotify.com/track/60LbXuVjG11t0cIendTtHh,Argentina,top200,SAME_POSITION,16424
+Una Noche Contigo,171,2017-01-01,"Marama, Rombai",https://open.spotify.com/track/5wWwIYTCgkiYfR5ZVZT3Go,Argentina,top200,NEW_ENTRY,16390
+Sin Contrato,172,2017-01-01,Maluma,https://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV,Argentina,top200,MOVE_DOWN,16305
+Como Le Digo,173,2017-01-01,Rodrigo,https://open.spotify.com/track/4nH1lpWkgzQPpTYPPjWKaI,Argentina,top200,NEW_ENTRY,16260
+Cheap Thrills,174,2017-01-01,Corta La Bocha,https://open.spotify.com/track/0gMpULrVyvPX3rWGfQUfea,Argentina,top200,MOVE_UP,16202
+Light It Up (feat. Nyla & Fuse ODG) - Remix,175,2017-01-01,Major Lazer,https://open.spotify.com/track/0L7loeTIg6akW84aEQZpCT,Argentina,top200,MOVE_DOWN,16184
+"La Ocasion (feat. Arcangel, Ozuna & Anuel Aa)",176,2017-01-01,"De La Ghetto, Mambo Kingz, DJ Luian",https://open.spotify.com/track/498YWgZPJWIA4lphXtCNma,Argentina,top200,MOVE_DOWN,16131
+Cuando Pase El Temblor - Remasterizado 2007,177,2017-01-01,Soda Stereo,https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD,Argentina,top200,MOVE_DOWN,16070
+Jamas,178,2017-01-01,RC BAND,https://open.spotify.com/track/3bdgsOwSmdtKfo0K02BT8P,Argentina,top200,MOVE_UP,16013
+Deja Que Te Bese,179,2017-01-01,"Alejandro Sanz, Marc Anthony",https://open.spotify.com/track/0s6yB0ZFl1LvYHAnGhXFga,Argentina,top200,MOVE_DOWN,15920
+Time of Our Lives,180,2017-01-01,"Pitbull, Ne-Yo",https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r,Argentina,top200,NEW_ENTRY,15837
+Gyal You A Party Animal,181,2017-01-01,Charly Black,https://open.spotify.com/track/1mSzZKMIPZIkn3jFV7v62b,Argentina,top200,MOVE_DOWN,15804
+Perfect Strangers,182,2017-01-01,"Jonas Blue, JP Cooper",https://open.spotify.com/track/5bZtRlMBU76vHuDOb1GM5u,Argentina,top200,MOVE_DOWN,15747
+Ego,183,2017-01-01,Lali,https://open.spotify.com/track/27xe7DYBq1xD5LIfkIrpAj,Argentina,top200,MOVE_DOWN,15701
+Se Parece Más A Ti,184,2017-01-01,Jambao,https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf,Argentina,top200,NEW_ENTRY,15600
+Persiana Americana,185,2017-01-01,Agapornis,https://open.spotify.com/track/4amGeAvkzFunJTHZ0KJZba,Argentina,top200,NEW_ENTRY,15501
+Carnaval,186,2017-01-01,Maluma,https://open.spotify.com/track/1nO4EGuBjR75IGbFYzqPxO,Argentina,top200,MOVE_DOWN,14952
+Quiero Que Sepas,187,2017-01-01,Juan Magán,https://open.spotify.com/track/0fm7fJ4aZv6Wx0klIcyXPz,Argentina,top200,MOVE_DOWN,14900
+Adventure of a Lifetime,188,2017-01-01,Coldplay,https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M,Argentina,top200,MOVE_DOWN,14834
+Volaré,189,2017-01-01,Benjamín Amadeo,https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY,Argentina,top200,MOVE_DOWN,14786
+The Greatest,190,2017-01-01,Sia,https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1,Argentina,top200,MOVE_DOWN,14783
+Madrugada,191,2017-01-01,La Beriso,https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9,Argentina,top200,MOVE_DOWN,14684
+What Do You Mean?,192,2017-01-01,Justin Bieber,https://open.spotify.com/track/3pzjHKrQSvXGHQ98dx18HI,Argentina,top200,MOVE_DOWN,14498
+En La Intimidad,193,2017-01-01,Ozuna,https://open.spotify.com/track/0QetVR4wwvyiTezQeFNdeZ,Argentina,top200,MOVE_DOWN,14484
+Tus Ojos No Me Ven,194,2017-01-01,Agapornis,https://open.spotify.com/track/5lZzrsIShvSlXlYlJiaiEf,Argentina,top200,NEW_ENTRY,14483
+Una Ráfaga de Amor,195,2017-01-01,Rafaga,https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB,Argentina,top200,NEW_ENTRY,14419
+Sólo necesito,196,2017-01-01,#TocoParaVos,https://open.spotify.com/track/7kK1cPOZ9RxZcgamiYysxw,Argentina,top200,NEW_ENTRY,14397
+Lean On (feat. MØ & DJ Snake),197,2017-01-01,Major Lazer,https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4,Argentina,top200,MOVE_DOWN,14304
+Sugar,198,2017-01-01,Maroon 5,https://open.spotify.com/track/494OU6M7NOf4ICYb4zWCf5,Argentina,top200,MOVE_DOWN,14248
+No hay más nada,199,2017-01-01,Los Totora,https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz,Argentina,top200,NEW_ENTRY,14232
+Tal Vez,200,2017-01-01,Marama,https://open.spotify.com/track/6aZOHHz5AvwM4MA6ygFjIY,Argentina,top200,NEW_ENTRY,14204
+Starboy,1,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z,Australia,top200,MOVE_UP,107350
+Rockabye (feat. Sean Paul & Anne-Marie),2,2017-01-01,Clean Bandit,https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW,Australia,top200,MOVE_UP,105111
+Closer,3,2017-01-01,"The Chainsmokers, Halsey",https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw,Australia,top200,MOVE_DOWN,100617
+"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",4,2017-01-01,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0,Australia,top200,MOVE_UP,88335
+Call On Me - Ryan Riback Extended Remix,5,2017-01-01,Starley,https://open.spotify.com/track/78rIJddV4X0HkNAInEcYde,Australia,top200,MOVE_UP,83729
+Say You Won't Let Go,6,2017-01-01,James Arthur,https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh,Australia,top200,MOVE_UP,81542
+I Feel It Coming,7,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt,Australia,top200,MOVE_UP,81455
+Sexual,8,2017-01-01,"NEIKED, Dyo",https://open.spotify.com/track/3AsAuGTaDQzavZZThyYlop,Australia,top200,MOVE_DOWN,80609
+Let Me Love You,9,2017-01-01,"DJ Snake, Justin Bieber",https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m,Australia,top200,MOVE_DOWN,75363
+The Mack,10,2017-01-01,"Nevada, Mark Morrison, Fetty Wap",https://open.spotify.com/track/7aV2mflaASUmGhCErm7kBO,Australia,top200,MOVE_UP,74950
+Don't Wanna Know,11,2017-01-01,"Maroon 5, Kendrick Lamar",https://open.spotify.com/track/5MFzQMkrl1FOOng9tq6R9r,Australia,top200,MOVE_UP,72216
+24K Magic,12,2017-01-01,Bruno Mars,https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P,Australia,top200,SAME_POSITION,72054
+Stranger (feat. Elliphant),13,2017-01-01,Peking Duk,https://open.spotify.com/track/0jVPEBd4wyHupkTHwzQRyc,Australia,top200,SAME_POSITION,70552
+Cold Water (feat. Justin Bieber & MØ),14,2017-01-01,Major Lazer,https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p,Australia,top200,MOVE_DOWN,68561
+Black Beatles,15,2017-01-01,"Rae Sremmurd, Gucci Mane",https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo,Australia,top200,MOVE_DOWN,67650
+Fresh Eyes,16,2017-01-01,Andy Grammer,https://open.spotify.com/track/4nMlau89VAjmV7agkl7OY3,Australia,top200,MOVE_UP,65459
+Love$ick (feat. A$AP Rocky),17,2017-01-01,Mura Masa,https://open.spotify.com/track/7Kq16WtEJzdRSNQgdXsn7Y,Australia,top200,SAME_POSITION,64332
+I Would Like,18,2017-01-01,Zara Larsson,https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6,Australia,top200,MOVE_UP,63033
+Scars To Your Beautiful,19,2017-01-01,Alessia Cara,https://open.spotify.com/track/0prNGof3XqfTvNDxHonvdK,Australia,top200,MOVE_UP,62689
+Fake Love,20,2017-01-01,Drake,https://open.spotify.com/track/343YBumqHu19cGoGARUTsd,Australia,top200,MOVE_DOWN,62524
+Capsize,21,2017-01-01,"FRENSHIP, Emily Warren",https://open.spotify.com/track/2XMTqoHHSH0lvuXrvIEdco,Australia,top200,MOVE_UP,60863
+All We Know,22,2017-01-01,"The Chainsmokers, Phoebe Ryan",https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK,Australia,top200,MOVE_UP,60512
+Starving,23,2017-01-01,"Hailee Steinfeld, Grey, Zedd",https://open.spotify.com/track/1qOLh0tI7trd1zdDKxYZTe,Australia,top200,MOVE_UP,60100
+My Way,24,2017-01-01,Calvin Harris,https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm,Australia,top200,MOVE_DOWN,57205
+In the Name of Love,25,2017-01-01,"Martin Garrix, Bebe Rexha",https://open.spotify.com/track/04DwTuZ2VBdJCCC5TROn7L,Australia,top200,MOVE_UP,57085
+All Night,26,2017-01-01,"The Vamps, Matoma",https://open.spotify.com/track/4b4KcovePX8Ke2cLIQTLM0,Australia,top200,MOVE_UP,56014
+One Dance,27,2017-01-01,"Drake, WizKid, Kyla",https://open.spotify.com/track/1xznGGDReH1oQq0xzbwXa3,Australia,top200,MOVE_DOWN,55526
+Just Hold On,28,2017-01-01,"Steve Aoki, Louis Tomlinson",https://open.spotify.com/track/3EmmCZoqpWOTY1g2GBwJoR,Australia,top200,MOVE_UP,54925
+By Your Side,29,2017-01-01,"Jonas Blue, RAYE",https://open.spotify.com/track/1D3ODoXHBLpdxolZRHWV1j,Australia,top200,SAME_POSITION,54698
+Say It (feat. Tove Lo),30,2017-01-01,Flume,https://open.spotify.com/track/4sQMalN597HdggTu196aL0,Australia,top200,MOVE_DOWN,54379
+Catch 22 (feat. Anne-Marie),31,2017-01-01,Illy,https://open.spotify.com/track/2bWrml86uwGVvznX8KKtwx,Australia,top200,MOVE_UP,53622
+Cocoon,32,2017-01-01,Milky Chance,https://open.spotify.com/track/0L87MffumRNWrY2SNUFcvs,Australia,top200,MOVE_UP,52765
+Mercy,33,2017-01-01,Shawn Mendes,https://open.spotify.com/track/4TZy1wLyHec06pwgFYDh1a,Australia,top200,MOVE_UP,50681
+Now and Later,34,2017-01-01,Sage The Gemini,https://open.spotify.com/track/08WPvDEsHvTFuB9w8tC2OS,Australia,top200,MOVE_DOWN,49628
+Shed a Light,35,2017-01-01,"Robin Schulz, David Guetta, Cheat Codes",https://open.spotify.com/track/1cG0umU5TKStygKsPFZ9pY,Australia,top200,MOVE_UP,48701
+The Ocean (feat. Shy Martin),36,2017-01-01,Mike Perry,https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv,Australia,top200,MOVE_DOWN,48445
+Setting Fires,37,2017-01-01,"The Chainsmokers, XYLØ",https://open.spotify.com/track/0B8B8cVRFIG1yznoQe7c9s,Australia,top200,MOVE_UP,47468
+Trust Nobody (feat. Selena Gomez & Tory Lanez),38,2017-01-01,Cashmere Cat,https://open.spotify.com/track/2wDjpPW3HZdA9quPPmZAMu,Australia,top200,MOVE_UP,45886
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",39,2017-01-01,Justin Timberlake,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc,Australia,top200,MOVE_DOWN,45779
+Side To Side,40,2017-01-01,"Ariana Grande, Nicki Minaj",https://open.spotify.com/track/4pLwZjInHj3SimIyN9SnOz,Australia,top200,MOVE_DOWN,45680
+Love on Me,41,2017-01-01,"Galantis, Hook N Sling",https://open.spotify.com/track/2MHCiOohBZEQuLgDTPvSzF,Australia,top200,MOVE_UP,42626
+Never Be Like You,42,2017-01-01,"Flume, kai",https://open.spotify.com/track/12REd1n8PeiHHWOh066tpr,Australia,top200,MOVE_DOWN,40297
+Chameleon,43,2017-01-01,PNAU,https://open.spotify.com/track/4rex1k9pBVFaIVKBBssZzi,Australia,top200,MOVE_DOWN,40114
+Perfect Strangers,44,2017-01-01,"Jonas Blue, JP Cooper",https://open.spotify.com/track/5bZtRlMBU76vHuDOb1GM5u,Australia,top200,MOVE_UP,39312
+Dancing On My Own,45,2017-01-01,Calum Scott,https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ,Australia,top200,MOVE_UP,37738
+Redbone,46,2017-01-01,Childish Gambino,https://open.spotify.com/track/3kxfsdsCpFgN412fpnW85Y,Australia,top200,MOVE_UP,35557
+Papercuts (feat. Vera Blue),47,2017-01-01,Illy,https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd,Australia,top200,MOVE_DOWN,35532
+Bad Things (with Camila Cabello),48,2017-01-01,Machine Gun Kelly,https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj,Australia,top200,MOVE_UP,35340
+Juju on That Beat (TZ Anthem),49,2017-01-01,"Zay Hilfigerrr, Zayion McCall",https://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd,Australia,top200,MOVE_DOWN,35018
+Don't Let Me Down (feat. Daya),50,2017-01-01,The Chainsmokers,https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm,Australia,top200,MOVE_DOWN,34061
+The Greatest (feat. Kendrick Lamar),51,2017-01-01,Sia,https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO,Australia,top200,MOVE_UP,32679
+This Is What You Came For (feat. Rihanna),52,2017-01-01,Calvin Harris,https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y,Australia,top200,MOVE_DOWN,30804
+Treat You Better,53,2017-01-01,Shawn Mendes,https://open.spotify.com/track/4Hf7WnR761jpxPr5D46Bcd,Australia,top200,MOVE_UP,29086
+Heathens,54,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr,Australia,top200,MOVE_UP,28821
+Sorry,55,2017-01-01,Justin Bieber,https://open.spotify.com/track/69bp2EbF7Q2rqc5N3ylezZ,Australia,top200,MOVE_DOWN,28250
+Love Me Now,56,2017-01-01,John Legend,https://open.spotify.com/track/6nxQdXa1uAL0rY72wPZu89,Australia,top200,MOVE_UP,27967
+Make Me (Cry),57,2017-01-01,"Noah Cyrus, Labrinth",https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP,Australia,top200,MOVE_UP,27541
+After the Afterparty (feat. Lil Yachty),58,2017-01-01,Charli XCX,https://open.spotify.com/track/0y8Wf6ltWpGCpgqVa21QNX,Australia,top200,MOVE_UP,27506
+Cheap Thrills,59,2017-01-01,Sia,https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j,Australia,top200,MOVE_DOWN,27371
+I Took A Pill In Ibiza - Seeb Remix,60,2017-01-01,Mike Posner,https://open.spotify.com/track/17Fd6Yb7mSbinKG8LoWfFl,Australia,top200,MOVE_DOWN,26302
+Lean On (feat. MØ & DJ Snake),61,2017-01-01,Major Lazer,https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4,Australia,top200,MOVE_DOWN,26286
+Final Song,62,2017-01-01,MØ,https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7,Australia,top200,MOVE_UP,25547
+"How Far I'll Go - From ""Moana""",63,2017-01-01,Alessia Cara,https://open.spotify.com/track/5hYTyyh2odQKphUbMqc5gN,Australia,top200,MOVE_UP,25477
+Bad and Boujee (feat. Lil Uzi Vert),64,2017-01-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR,Australia,top200,MOVE_UP,25042
+Broccoli (feat. Lil Yachty),65,2017-01-01,Shelley FKA DRAM,https://open.spotify.com/track/7yyRTcZmCiyzzJlNzGC9Ol,Australia,top200,MOVE_UP,24648
+Party Monster,66,2017-01-01,The Weeknd,https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt,Australia,top200,MOVE_DOWN,24466
+Oh Lord,67,2017-01-01,MiC LOWRY,https://open.spotify.com/track/1sTUEdVO85YU8Ymk2jeAls,Australia,top200,MOVE_UP,24463
+Shout Out to My Ex,68,2017-01-01,Little Mix,https://open.spotify.com/track/0YHUITU3w6ws1v8ehT264g,Australia,top200,MOVE_UP,24031
+Please Don't Go,69,2017-01-01,Joel Adams,https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy,Australia,top200,MOVE_UP,23598
+On Hold,70,2017-01-01,The xx,https://open.spotify.com/track/5CPqOpKSk0QcJ3dGdaWcRB,Australia,top200,MOVE_UP,23595
+Drinkee,71,2017-01-01,Sofi Tukker,https://open.spotify.com/track/3REzEumDuXBpQH45WEHAr6,Australia,top200,SAME_POSITION,22725
+Too Good,72,2017-01-01,"Drake, Rihanna",https://open.spotify.com/track/11KJSRSgaDxqydKYiD2Jew,Australia,top200,MOVE_DOWN,22704
+Love Yourself,73,2017-01-01,Justin Bieber,https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT,Australia,top200,MOVE_UP,22608
+Work from Home (feat. Ty Dolla $ign),74,2017-01-01,Fifth Harmony,https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb,Australia,top200,MOVE_UP,22188
+Human,75,2017-01-01,Rag'n'Bone Man,https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O,Australia,top200,MOVE_UP,21806
+Frozen,76,2017-01-01,"PON CHO, Paige IV",https://open.spotify.com/track/2TdJsyNijI5jUvMnsjQcb3,Australia,top200,MOVE_UP,21464
+Water Under the Bridge,77,2017-01-01,Adele,https://open.spotify.com/track/4vb4mFvYsr2h6enhjJsq9Y,Australia,top200,MOVE_UP,21383
+We Don't Talk Anymore (feat. Selena Gomez),78,2017-01-01,Charlie Puth,https://open.spotify.com/track/68EMU2RD1ECNeOeJ5qAXCV,Australia,top200,MOVE_UP,21150
+1955,79,2017-01-01,"Hilltop Hoods, Montaigne, Tom Thum",https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6,Australia,top200,MOVE_DOWN,21112
+Hymn for the Weekend - Seeb Remix,80,2017-01-01,Coldplay,https://open.spotify.com/track/1OAiWI2oPmglaOiv9fdioU,Australia,top200,MOVE_UP,20557
+Deja Vu,81,2017-01-01,J. Cole,https://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ,Australia,top200,MOVE_UP,20549
+Panda,82,2017-01-01,Desiigner,https://open.spotify.com/track/5OOkp4U9P9oL23maHFHL1h,Australia,top200,MOVE_DOWN,20513
+On Your Side,83,2017-01-01,The Veronicas,https://open.spotify.com/track/7mTgsbq7n8jgnwLswpgugB,Australia,top200,MOVE_UP,20333
+Adore,84,2017-01-01,Amy Shark,https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF,Australia,top200,MOVE_UP,20175
+Caroline,85,2017-01-01,Aminé,https://open.spotify.com/track/7FB8l7UA1HKqnuSLjP9qDc,Australia,top200,MOVE_UP,20087
+Fast Car,86,2017-01-01,"Jonas Blue, Dakota",https://open.spotify.com/track/6OZh916QF8XNunWaP97WEZ,Australia,top200,MOVE_DOWN,19949
+7 Years,87,2017-01-01,Lukas Graham,https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L,Australia,top200,MOVE_UP,19933
+"i hate u, i love u (feat. olivia o'brien)",88,2017-01-01,gnash,https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe,Australia,top200,MOVE_UP,19906
+The Greatest,89,2017-01-01,Sia,https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1,Australia,top200,MOVE_UP,19773
+What Do You Mean?,90,2017-01-01,Justin Bieber,https://open.spotify.com/track/3pzjHKrQSvXGHQ98dx18HI,Australia,top200,MOVE_DOWN,19290
+Ride,91,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW,Australia,top200,MOVE_UP,19163
+Into You,92,2017-01-01,Ariana Grande,https://open.spotify.com/track/7yHEDfrJNd0zWOfXwydNH0,Australia,top200,MOVE_UP,19070
+Faded,93,2017-01-01,Alan Walker,https://open.spotify.com/track/7gHs73wELdeycvS48JfIos,Australia,top200,MOVE_UP,18903
+"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",94,2017-01-01,Lil Wayne,https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB,Australia,top200,MOVE_UP,18355
+Work,95,2017-01-01,"Rihanna, Drake",https://open.spotify.com/track/14WWzenpaEgQZlqPq2nk4v,Australia,top200,MOVE_DOWN,18321
+Cool Girl,96,2017-01-01,Tove Lo,https://open.spotify.com/track/5dKyZWlgjWw1oJgLa4GCZD,Australia,top200,MOVE_UP,18260
+Let Me Hold You (Turn Me On),97,2017-01-01,"Dante Klein, Cheat Codes",https://open.spotify.com/track/0lmdsH1MIoLsMymnNpd6HU,Australia,top200,MOVE_UP,18256
+Light It Up (feat. Nyla & Fuse ODG) - Remix,98,2017-01-01,Major Lazer,https://open.spotify.com/track/0L7loeTIg6akW84aEQZpCT,Australia,top200,MOVE_UP,18095
+Sunset Lover,99,2017-01-01,Petit Biscuit,https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1,Australia,top200,MOVE_UP,17989
+Stressed Out,100,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn,Australia,top200,MOVE_UP,17845
+Send My Love (To Your New Lover),101,2017-01-01,Adele,https://open.spotify.com/track/4BHzQ9C00ceJxfG16AlNWb,Australia,top200,MOVE_UP,17830
+Come First,102,2017-01-01,Terror Jr,https://open.spotify.com/track/5fo4LbJ8lOaB54wcM5wPMv,Australia,top200,MOVE_UP,17666
+Sex,103,2017-01-01,"Cheat Codes, Kris Kross Amsterdam",https://open.spotify.com/track/5DA77EqppDmCTWGovd4oTP,Australia,top200,MOVE_UP,17071
+Cake By The Ocean,104,2017-01-01,DNCE,https://open.spotify.com/track/2aFiaMXmWsM3Vj72F9ksBl,Australia,top200,MOVE_UP,16870
+Needed Me,105,2017-01-01,Rihanna,https://open.spotify.com/track/1Tt4sE4pXi57mTD1GCzsqm,Australia,top200,MOVE_UP,16772
+Mr. Brightside,106,2017-01-01,The Killers,https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN,Australia,top200,MOVE_DOWN,16740
+Rockin’,107,2017-01-01,The Weeknd,https://open.spotify.com/track/36YCdzT57us0LhDmCYtrNE,Australia,top200,MOVE_UP,16651
+Riptide,108,2017-01-01,Vance Joy,https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm,Australia,top200,MOVE_UP,16366
+Thinking out Loud,109,2017-01-01,Ed Sheeran,https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg,Australia,top200,MOVE_UP,16061
+Gold,110,2017-01-01,Kiiara,https://open.spotify.com/track/6WhzFzROw3aq3rPWjgYlxr,Australia,top200,MOVE_DOWN,16001
+Controlla,111,2017-01-01,Drake,https://open.spotify.com/track/6F609ICg9Spjrw1epsAnpa,Australia,top200,MOVE_UP,15990
+Uptown Funk (feat. Bruno Mars),112,2017-01-01,Mark Ronson,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS,Australia,top200,MOVE_DOWN,15767
+Sugar,126,2017-01-02,Maroon 5,https://open.spotify.com/track/494OU6M7NOf4ICYb4zWCf5,Brazil,top200,MOVE_DOWN,37128
+Roses (feat. ROZES),113,2017-01-01,The Chainsmokers,https://open.spotify.com/track/6O6M7pJLABmfBRoGZMu76Y,Australia,top200,MOVE_UP,15465
+"Lose Yourself - From ""8 Mile"" Soundtrack",114,2017-01-01,Eminem,https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ,Australia,top200,MOVE_UP,15026
+This Girl (Kungs Vs. Cookin' On 3 Burners),115,2017-01-01,Kungs,https://open.spotify.com/track/0tICYNayWWhH9GPeFrfjfD,Australia,top200,MOVE_DOWN,15022
+Hello,116,2017-01-01,Adele,https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw,Australia,top200,MOVE_UP,14778
+Lush Life,117,2017-01-01,Zara Larsson,https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8,Australia,top200,MOVE_UP,14768
+All My Friends (feat. Tinashe & Chance the Rapper),118,2017-01-01,Snakehips,https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K,Australia,top200,MOVE_DOWN,14554
+It's Gotta Be You,119,2017-01-01,Isaiah Firebrace,https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW,Australia,top200,MOVE_UP,14552
+Alarm,120,2017-01-01,Anne-Marie,https://open.spotify.com/track/0OwX5aROoW1Iip8FV51Efg,Australia,top200,MOVE_UP,14519
+Ignition - Remix,121,2017-01-01,R. Kelly,https://open.spotify.com/track/5dNfHmqgr128gMY2tc5CeJ,Australia,top200,MOVE_DOWN,14465
+Ni**as In Paris,122,2017-01-01,"JAY-Z, Kanye West",https://open.spotify.com/track/2KpCpk6HjXXLb7nnXoXA5O,Australia,top200,MOVE_DOWN,14334
+All Time Low,123,2017-01-01,Jon Bellion,https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m,Australia,top200,NEW_ENTRY,14308
+PILLOWTALK,124,2017-01-01,ZAYN,https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1,Australia,top200,MOVE_UP,14087
+Middle,125,2017-01-01,"DJ Snake, Bipolar Sunshine",https://open.spotify.com/track/4OZEu0Vwq0RB2LAq14v99n,Australia,top200,MOVE_UP,13969
+Stronger,126,2017-01-01,Kanye West,https://open.spotify.com/track/6C7RJEIUDqKkJRZVWdkfkH,Australia,top200,MOVE_DOWN,13966
+Versace on the Floor,127,2017-01-01,Bruno Mars,https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP,Australia,top200,NEW_ENTRY,13938
+Lot to Learn,128,2017-01-01,Luke Christopher,https://open.spotify.com/track/2HzfRSfCogBSsgW2CckVA2,Australia,top200,NEW_ENTRY,13897
+Bounce Back,129,2017-01-01,Big Sean,https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF,Australia,top200,MOVE_UP,13871
+Can't Feel My Face,130,2017-01-01,The Weeknd,https://open.spotify.com/track/6RsWqX8zABZLhZydXxEFOm,Australia,top200,MOVE_DOWN,13682
+Talk Is Cheap,131,2017-01-01,Chet Faker,https://open.spotify.com/track/7bliRZuMFa2JmUzzNd62kk,Australia,top200,NEW_ENTRY,13660
+Sidewalks,132,2017-01-01,"The Weeknd, Kendrick Lamar",https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko,Australia,top200,NEW_ENTRY,13475
+Stitches,133,2017-01-01,Shawn Mendes,https://open.spotify.com/track/1WP1r7fuvRqZRnUaTi2I1Q,Australia,top200,MOVE_UP,13435
+Ain't My Fault,134,2017-01-01,Zara Larsson,https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ,Australia,top200,NEW_ENTRY,13364
+In My Blood,135,2017-01-01,The Veronicas,https://open.spotify.com/track/0x4GHzCjY5MGQ960CHnVHz,Australia,top200,MOVE_UP,13270
+Fading,136,2017-01-01,Vallis Alps,https://open.spotify.com/track/2fKEunM0KZVpVLwlvmVlDZ,Australia,top200,NEW_ENTRY,13243
+Immortal,137,2017-01-01,J. Cole,https://open.spotify.com/track/6AGON2BGdPmPMJGiiNuuwl,Australia,top200,NEW_ENTRY,13217
+Chantaje (feat. Maluma),138,2017-01-01,Shakira,https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg,Australia,top200,NEW_ENTRY,13216
+This Town,139,2017-01-01,Niall Horan,https://open.spotify.com/track/5nA67Y0XX9JipZwYxX7Gl7,Australia,top200,NEW_ENTRY,12969
+Photograph,140,2017-01-01,Ed Sheeran,https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy,Australia,top200,NEW_ENTRY,12891
+Gold Digger,141,2017-01-01,"Kanye West, Jamie Foxx",https://open.spotify.com/track/5XJJdNPkwmbUwE79gv0NxK,Australia,top200,MOVE_UP,12701
+Pumped Up Kicks,142,2017-01-01,Foster The People,https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT,Australia,top200,MOVE_DOWN,12679
+Rooting For You,143,2017-01-01,London Grammar,https://open.spotify.com/track/2nAAFnHiXRdWhsqoeqhhnr,Australia,top200,NEW_ENTRY,12503
+No Role Modelz,144,2017-01-01,J. Cole,https://open.spotify.com/track/62vpWI1CHwFy7tMIcSStl8,Australia,top200,NEW_ENTRY,12451
+King Kunta,145,2017-01-01,Kendrick Lamar,https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O,Australia,top200,MOVE_DOWN,12441
+Titanium (feat. Sia),146,2017-01-01,David Guetta,https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd,Australia,top200,MOVE_DOWN,12433
+Famous,147,2017-01-01,Kanye West,https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8,Australia,top200,MOVE_UP,12343
+V. 3005,148,2017-01-01,Childish Gambino,https://open.spotify.com/track/7wwifjNAb172PtDpKK3CoR,Australia,top200,NEW_ENTRY,12321
+No Scrubs,149,2017-01-01,TLC,https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs,Australia,top200,MOVE_DOWN,12277
+Alone,150,2017-01-01,Alan Walker,https://open.spotify.com/track/0JiVRyTJcJnmlwCZ854K4p,Australia,top200,NEW_ENTRY,12260
+"Me, Myself & I",151,2017-01-01,"G-Eazy, Bebe Rexha",https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC,Australia,top200,MOVE_UP,12190
+Hear Me Now,152,2017-01-01,"Alok, Bruno Martini, Zeeba",https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON,Australia,top200,NEW_ENTRY,12185
+Millionaire (feat. Nelly),153,2017-01-01,"Cash Cash, Digital Farm Animals",https://open.spotify.com/track/3UDXkdQquqCEAJdNAsA1wO,Australia,top200,NEW_ENTRY,12179
+Hey Ya!,154,2017-01-01,Outkast,https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM,Australia,top200,MOVE_DOWN,12147
+Hotline Bling,155,2017-01-01,Drake,https://open.spotify.com/track/2FBUoWkIuQXwayw2RNo5l6,Australia,top200,MOVE_UP,12142
+Can't Hold Us - feat. Ray Dalton,156,2017-01-01,Macklemore & Ryan Lewis,https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn,Australia,top200,NEW_ENTRY,12141
+My House,157,2017-01-01,Flo Rida,https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1,Australia,top200,MOVE_UP,12109
+All Night (feat. Knox Fortune),158,2017-01-01,Chance the Rapper,https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T,Australia,top200,MOVE_DOWN,12094
+Weak,159,2017-01-01,AJR,https://open.spotify.com/track/3E2Zh20GDCR9B1EYjfXWyv,Australia,top200,NEW_ENTRY,11853
+Light,160,2017-01-01,San Holo,https://open.spotify.com/track/7zTx8ePYAmPFQuxP3xlXZn,Australia,top200,NEW_ENTRY,11662
+No Money,161,2017-01-01,Galantis,https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd,Australia,top200,MOVE_UP,11661
+Let It Go,162,2017-01-01,James Bay,https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP,Australia,top200,NEW_ENTRY,11626
+No Problem (feat. Lil Wayne & 2 Chainz),163,2017-01-01,Chance the Rapper,https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH,Australia,top200,NEW_ENTRY,11556
+Where Are Ü Now (with Justin Bieber),164,2017-01-01,"Jack Ü, Skrillex, Diplo",https://open.spotify.com/track/66hayvUbTotekKU3H4ta1f,Australia,top200,MOVE_DOWN,11427
+Blow Your Mind (Mwah),165,2017-01-01,Dua Lipa,https://open.spotify.com/track/2eAAEa8pxKF7My0EO4rFgR,Australia,top200,NEW_ENTRY,11405
+Set In Stone,166,2017-01-01,Guy Sebastian,https://open.spotify.com/track/4ZfpHQ2mkA4HYZtVWBfOCK,Australia,top200,NEW_ENTRY,11358
+Starboy - Kygo Remix,167,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/6L778PA16SuyYvFhqnMndY,Australia,top200,NEW_ENTRY,11281
+Chill Bill (feat. J. Davi$ & Spooks),168,2017-01-01,Rob $tone,https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp,Australia,top200,NEW_ENTRY,11245
+Wonderwall - Remastered,169,2017-01-01,Oasis,https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa,Australia,top200,MOVE_UP,11143
+Let Her Go,170,2017-01-01,Passenger,https://open.spotify.com/track/2jyjhRf6DVbMPU5zxagN2h,Australia,top200,NEW_ENTRY,11123
+Cheerleader - Felix Jaehn Remix Radio Edit,171,2017-01-01,OMI,https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy,Australia,top200,MOVE_UP,10873
+September Song,172,2017-01-01,JP Cooper,https://open.spotify.com/track/0FuTx2s3YH1ppmtiM6l0zI,Australia,top200,NEW_ENTRY,10851
+Seven Nation Army,173,2017-01-01,The White Stripes,https://open.spotify.com/track/1jNOi6m3Hn8nLEeHCp5Msr,Australia,top200,NEW_ENTRY,10843
+How Far I'll Go,174,2017-01-01,Auli'i Cravalho,https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd,Australia,top200,NEW_ENTRY,10810
+I Got You,175,2017-01-01,Bebe Rexha,https://open.spotify.com/track/1FUViuNSldssMIawrOXF2i,Australia,top200,NEW_ENTRY,10653
+Hoops,176,2017-01-01,The Rubens,https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW,Australia,top200,NEW_ENTRY,10639
+That's What I Like,177,2017-01-01,Bruno Mars,https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU,Australia,top200,NEW_ENTRY,10556
+Working For It,178,2017-01-01,"ZHU, Skrillex, THEY.",https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc,Australia,top200,MOVE_DOWN,10530
+False Alarm,179,2017-01-01,"Matoma, Becky Hill",https://open.spotify.com/track/7gZQfdEQpmwAoPHSbEHzms,Australia,top200,NEW_ENTRY,10521
+Time of Our Lives,180,2017-01-01,"Pitbull, Ne-Yo",https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r,Australia,top200,MOVE_DOWN,10472
+Steady 1234 (feat. Jasmine Thompson & Skizzy Mars),181,2017-01-01,Vice,https://open.spotify.com/track/40UroIGvsMPLPBYwH8rMNA,Australia,top200,NEW_ENTRY,10404
+You & Me,182,2017-01-01,"Marc E. Bassy, G-Eazy",https://open.spotify.com/track/4QdovcM8j50QPlyR7tH4xe,Australia,top200,NEW_ENTRY,10401
+"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",183,2017-01-01,"Macklemore, Ryan Lewis, Grandmaster Melle Mel",https://open.spotify.com/track/5pfJsMwoRYKampPay8amX0,Australia,top200,NEW_ENTRY,10392
+Is This Love - Remix,184,2017-01-01,"Bob Marley & The Wailers, LVNDSCAPE, Bolier",https://open.spotify.com/track/1w5sLDYzYAGI0AkLc6FPlO,Australia,top200,NEW_ENTRY,10371
+Wolfie (feat. Julia Stone),185,2017-01-01,Golden Features,https://open.spotify.com/track/6rKmnzp0nUpHvjLK7FXSnP,Australia,top200,NEW_ENTRY,10232
+Jumpman,186,2017-01-01,"Drake, Future",https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ,Australia,top200,NEW_ENTRY,10091
+Six Feet Under,187,2017-01-01,The Weeknd,https://open.spotify.com/track/4mU5iXHeLgbR94siF7p1sY,Australia,top200,NEW_ENTRY,10030
+Solo Dance,188,2017-01-01,Martin Jensen,https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN,Australia,top200,NEW_ENTRY,10009
+Crazy,189,2017-01-01,Gnarls Barkley,https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo,Australia,top200,NEW_ENTRY,9997
+Party (feat. Usher & Gucci Mane),190,2017-01-01,Chris Brown,https://open.spotify.com/track/05Z7jet4VDNVgNQWcYHnrk,Australia,top200,NEW_ENTRY,9994
+Georgia,191,2017-01-01,Vance Joy,https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p,Australia,top200,NEW_ENTRY,9960
+Without Me,192,2017-01-01,Eminem,https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk,Australia,top200,NEW_ENTRY,9940
+The Hills,193,2017-01-01,The Weeknd,https://open.spotify.com/track/25khomWgBVamSdKw7hzm3l,Australia,top200,NEW_ENTRY,9938
+See You Again (feat. Charlie Puth),194,2017-01-01,Wiz Khalifa,https://open.spotify.com/track/6IcrwGdIvRsrImOnoYfG9Z,Australia,top200,NEW_ENTRY,9919
+Chunky,195,2017-01-01,Bruno Mars,https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI,Australia,top200,NEW_ENTRY,9907
+You Were Right,196,2017-01-01,RÜFÜS DU SOL,https://open.spotify.com/track/77lqbary6vt1DSc1MBN6sx,Australia,top200,NEW_ENTRY,9869
+Black Barbies,197,2017-01-01,"Nicki Minaj, Mike WiLL Made-It",https://open.spotify.com/track/3y9cCbnBn0zjkJa2YkOj70,Australia,top200,NEW_ENTRY,9844
+pick up the phone,198,2017-01-01,"Young Thug, Travis Scott",https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr,Australia,top200,NEW_ENTRY,9827
+Under the Bridge,199,2017-01-01,Red Hot Chili Peppers,https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0,Australia,top200,NEW_ENTRY,9823
+Ocean Drive,200,2017-01-01,Duke Dumont,https://open.spotify.com/track/0k93MXOj0kSXo84SvSDeUz,Australia,top200,NEW_ENTRY,9790
+Alone,1,2017-01-01,Alan Walker,https://open.spotify.com/track/0JiVRyTJcJnmlwCZ854K4p,Austria,top200,MOVE_UP,12990
+Rockabye (feat. Sean Paul & Anne-Marie),2,2017-01-01,Clean Bandit,https://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW,Austria,top200,MOVE_DOWN,12897
+Chöre,3,2017-01-01,Mark Forster,https://open.spotify.com/track/2nYpbaLykC2cjU8Yt5KF1v,Austria,top200,MOVE_UP,10852
+Bad Ideas,4,2017-01-01,Alle Farben,https://open.spotify.com/track/76gwG061wqdatYhicO2hG4,Austria,top200,MOVE_DOWN,10837
+Closer,5,2017-01-01,"The Chainsmokers, Halsey",https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw,Austria,top200,SAME_POSITION,10317
+"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",6,2017-01-01,"ZAYN, Taylor Swift",https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0,Austria,top200,MOVE_UP,9551
+Starboy,7,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z,Austria,top200,MOVE_UP,9165
+Call On Me - Ryan Riback Extended Remix,8,2017-01-01,Starley,https://open.spotify.com/track/78rIJddV4X0HkNAInEcYde,Austria,top200,MOVE_DOWN,9146
+Say You Won't Let Go,9,2017-01-01,James Arthur,https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh,Austria,top200,MOVE_UP,8756
+Shed a Light,10,2017-01-01,"Robin Schulz, David Guetta, Cheat Codes",https://open.spotify.com/track/1cG0umU5TKStygKsPFZ9pY,Austria,top200,SAME_POSITION,8726
+Let Me Love You,11,2017-01-01,"DJ Snake, Justin Bieber",https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m,Austria,top200,MOVE_DOWN,8363
+My Way,12,2017-01-01,Calvin Harris,https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm,Austria,top200,MOVE_DOWN,7873
+Just Hold On,13,2017-01-01,"Steve Aoki, Louis Tomlinson",https://open.spotify.com/track/3EmmCZoqpWOTY1g2GBwJoR,Austria,top200,MOVE_UP,7780
+Don't Wanna Know,14,2017-01-01,"Maroon 5, Kendrick Lamar",https://open.spotify.com/track/5MFzQMkrl1FOOng9tq6R9r,Austria,top200,MOVE_DOWN,7747
+Solo Dance,15,2017-01-01,Martin Jensen,https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN,Austria,top200,SAME_POSITION,7535
+Now and Later,16,2017-01-01,Sage The Gemini,https://open.spotify.com/track/08WPvDEsHvTFuB9w8tC2OS,Austria,top200,MOVE_UP,7194
+Lot to Learn,17,2017-01-01,Luke Christopher,https://open.spotify.com/track/2HzfRSfCogBSsgW2CckVA2,Austria,top200,MOVE_UP,7019
+All Night,71,2017-01-01,"The Vamps, Matoma",https://open.spotify.com/track/4b4KcovePX8Ke2cLIQTLM0,Austria,top200,MOVE_UP,2869
+Would I Lie to You - Radio Edit,18,2017-01-01,"David Guetta, Cedric Gervais, Chris Willis",https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2,Austria,top200,MOVE_DOWN,6960
+Black Beatles,19,2017-01-01,"Rae Sremmurd, Gucci Mane",https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo,Austria,top200,MOVE_UP,6954
+Mercy,20,2017-01-01,Shawn Mendes,https://open.spotify.com/track/4TZy1wLyHec06pwgFYDh1a,Austria,top200,MOVE_UP,6887
+In the Name of Love,21,2017-01-01,"Martin Garrix, Bebe Rexha",https://open.spotify.com/track/04DwTuZ2VBdJCCC5TROn7L,Austria,top200,SAME_POSITION,6754
+One Dance,22,2017-01-01,"Drake, WizKid, Kyla",https://open.spotify.com/track/1xznGGDReH1oQq0xzbwXa3,Austria,top200,MOVE_DOWN,6515
+Human,23,2017-01-01,Rag'n'Bone Man,https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O,Austria,top200,MOVE_UP,6350
+Don't Let Me Down (feat. Daya),24,2017-01-01,The Chainsmokers,https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm,Austria,top200,MOVE_DOWN,5942
+Cold Water (feat. Justin Bieber & MØ),25,2017-01-01,Major Lazer,https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p,Austria,top200,MOVE_DOWN,5788
+Heathens,26,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr,Austria,top200,MOVE_UP,5779
+Scars To Your Beautiful,27,2017-01-01,Alessia Cara,https://open.spotify.com/track/0prNGof3XqfTvNDxHonvdK,Austria,top200,MOVE_UP,5556
+No Lie,28,2017-01-01,"Sean Paul, Dua Lipa",https://open.spotify.com/track/3cFsmM51N5zMAuu1nNY4Tw,Austria,top200,SAME_POSITION,5439
+What Is Love 2016,29,2017-01-01,Lost Frequencies,https://open.spotify.com/track/5hIR7SX1fSrr5evIAPDY5o,Austria,top200,MOVE_UP,5359
+All We Know,30,2017-01-01,"The Chainsmokers, Phoebe Ryan",https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK,Austria,top200,SAME_POSITION,5340
+The Mack,31,2017-01-01,"Nevada, Mark Morrison, Fetty Wap",https://open.spotify.com/track/7aV2mflaASUmGhCErm7kBO,Austria,top200,MOVE_DOWN,5325
+By Your Side,32,2017-01-01,"Jonas Blue, RAYE",https://open.spotify.com/track/1D3ODoXHBLpdxolZRHWV1j,Austria,top200,MOVE_UP,5231
+Dye My Hair,33,2017-01-01,ALMA,https://open.spotify.com/track/5NafFxaLg9Ep21oTHBw7Zq,Austria,top200,MOVE_DOWN,5192
+Love Me Now,34,2017-01-01,John Legend,https://open.spotify.com/track/6nxQdXa1uAL0rY72wPZu89,Austria,top200,MOVE_UP,5188
+Cheap Thrills,35,2017-01-01,Sia,https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j,Austria,top200,MOVE_DOWN,5187
+Treat You Better,36,2017-01-01,Shawn Mendes,https://open.spotify.com/track/4Hf7WnR761jpxPr5D46Bcd,Austria,top200,MOVE_DOWN,5017
+Jedermann,37,2017-01-01,Pizzera & Jaus,https://open.spotify.com/track/4rkEjyRMjc6rcj7WROZ9XK,Austria,top200,MOVE_UP,4932
+Bonfire,38,2017-01-01,"Felix Jaehn, ALMA",https://open.spotify.com/track/5hz9DEkahyWoTs3rxJOTtw,Austria,top200,MOVE_DOWN,4790
+Ohne mein Team,39,2017-01-01,"Bonez MC, RAF Camora, Maxwell",https://open.spotify.com/track/05Mp2UJulSttxQ4E6hQPH3,Austria,top200,MOVE_UP,4737
+iPhone 17 (feat. Moé),40,2017-01-01,KC Rebell,https://open.spotify.com/track/6rwCkGBh7CV6pcdxZKbcsG,Austria,top200,MOVE_UP,4691
+The Ocean (feat. Shy Martin),41,2017-01-01,Mike Perry,https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv,Austria,top200,MOVE_DOWN,4644
+24K Magic,42,2017-01-01,Bruno Mars,https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P,Austria,top200,MOVE_UP,4558
+Alarm,43,2017-01-01,Anne-Marie,https://open.spotify.com/track/0OwX5aROoW1Iip8FV51Efg,Austria,top200,MOVE_DOWN,4362
+Final Song,44,2017-01-01,MØ,https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7,Austria,top200,MOVE_DOWN,4337
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",45,2017-01-01,Justin Timberlake,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc,Austria,top200,MOVE_DOWN,4310
+Starving,46,2017-01-01,"Hailee Steinfeld, Grey, Zedd",https://open.spotify.com/track/1qOLh0tI7trd1zdDKxYZTe,Austria,top200,MOVE_UP,4288
+I Feel It Coming,47,2017-01-01,"The Weeknd, Daft Punk",https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt,Austria,top200,MOVE_UP,4275
+Faded,48,2017-01-01,Alan Walker,https://open.spotify.com/track/7gHs73wELdeycvS48JfIos,Austria,top200,MOVE_DOWN,4184
+I Took A Pill In Ibiza - Seeb Remix,49,2017-01-01,Mike Posner,https://open.spotify.com/track/17Fd6Yb7mSbinKG8LoWfFl,Austria,top200,MOVE_DOWN,4175
+Holz,50,2017-01-01,257ers,https://open.spotify.com/track/7eINNUMHd6YAPldsUlCz9q,Austria,top200,SAME_POSITION,3968
+Stressed Out,51,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn,Austria,top200,SAME_POSITION,3869
+Side To Side,52,2017-01-01,"Ariana Grande, Nicki Minaj",https://open.spotify.com/track/4pLwZjInHj3SimIyN9SnOz,Austria,top200,MOVE_UP,3833
+Ride,53,2017-01-01,Twenty One Pilots,https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW,Austria,top200,MOVE_UP,3624
+Hear Me Now,54,2017-01-01,"Alok, Bruno Martini, Zeeba",https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON,Austria,top200,MOVE_UP,3596
+Sexual,55,2017-01-01,"NEIKED, Dyo",https://open.spotify.com/track/3AsAuGTaDQzavZZThyYlop,Austria,top200,MOVE_UP,3472
+Light It Up (feat. Nyla & Fuse ODG) - Remix,56,2017-01-01,Major Lazer,https://open.spotify.com/track/0L7loeTIg6akW84aEQZpCT,Austria,top200,MOVE_DOWN,3466
+"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",57,2017-01-01,Lil Wayne,https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB,Austria,top200,MOVE_UP,3423
+Fake Love,58,2017-01-01,Drake,https://open.spotify.com/track/343YBumqHu19cGoGARUTsd,Austria,top200,MOVE_UP,3382
+Hallelujah,59,2017-01-01,Pentatonix,https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx,Austria,top200,MOVE_UP,3356
+The Greatest,60,2017-01-01,Sia,https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1,Austria,top200,SAME_POSITION,3317
+Fast Car,61,2017-01-01,"Jonas Blue, Dakota",https://open.spotify.com/track/6OZh916QF8XNunWaP97WEZ,Austria,top200,MOVE_DOWN,3277
+Chantaje (feat. Maluma),62,2017-01-01,Shakira,https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg,Austria,top200,MOVE_UP,3245
+Never Give Up,63,2017-01-01,Sia,https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH,Austria,top200,MOVE_DOWN,3241
+Water Under the Bridge,64,2017-01-01,Adele,https://open.spotify.com/track/4vb4mFvYsr2h6enhjJsq9Y,Austria,top200,MOVE_UP,3114
+Sex,65,2017-01-01,"Cheat Codes, Kris Kross Amsterdam",https://open.spotify.com/track/5DA77EqppDmCTWGovd4oTP,Austria,top200,MOVE_DOWN,3107
+Capsize,66,2017-01-01,"FRENSHIP, Emily Warren",https://open.spotify.com/track/2XMTqoHHSH0lvuXrvIEdco,Austria,top200,SAME_POSITION,3086
+Love on Me,67,2017-01-01,"Galantis, Hook N Sling",https://open.spotify.com/track/2MHCiOohBZEQuLgDTPvSzF,Austria,top200,MOVE_DOWN,3018
+Miss You,68,2017-01-01,James Hersey,https://open.spotify.com/track/7of1slAJIWrXxP8ikAHxje,Austria,top200,MOVE_UP,2944
+Work from Home (feat. Ty Dolla $ign),69,2017-01-01,Fifth Harmony,https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb,Austria,top200,MOVE_DOWN,2911
+Palmen aus Gold,70,2017-01-01,"Bonez MC, RAF Camora",https://open.spotify.com/track/0t4v7Q4yzb9SOQohayL33W,Austria,top200,MOVE_UP,2875
+Cocoon,72,2017-01-01,Milky Chance,https://open.spotify.com/track/0L87MffumRNWrY2SNUFcvs,Austria,top200,MOVE_UP,2865
+Perfect Strangers,73,2017-01-01,"Jonas Blue, JP Cooper",https://open.spotify.com/track/5bZtRlMBU76vHuDOb1GM5u,Austria,top200,MOVE_DOWN,2841
+Steady 1234 (feat. Jasmine Thompson & Skizzy Mars),74,2017-01-01,Vice,https://open.spotify.com/track/40UroIGvsMPLPBYwH8rMNA,Austria,top200,MOVE_UP,2798
+Sunset Lover,75,2017-01-01,Petit Biscuit,https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1,Austria,top200,MOVE_UP,2756
+Tuesday,76,2017-01-01,"Burak Yeter, Danelle Sandoval",https://open.spotify.com/track/7abpmGpF7PGep2rDU68GBR,Austria,top200,MOVE_UP,2700
+Kokaina,77,2017-01-01,Miami Yacine,https://open.spotify.com/track/2KHbPYI22yWIOgWUsApYIS,Austria,top200,MOVE_UP,2634
+Palmen aus Plastik,78,2017-01-01,"Bonez MC, RAF Camora",https://open.spotify.com/track/6wHRm1KR8pzVDPdmR6Qovj,Austria,top200,MOVE_UP,2627
+"Me, Myself & I",79,2017-01-01,"G-Eazy, Bebe Rexha",https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC,Austria,top200,MOVE_DOWN,2612
+I Was Wrong - Robin Schulz Remix,80,2017-01-01,A R I Z O N A,https://open.spotify.com/track/3TZ3MiMILR5wrQbbWiFUwI,Austria,top200,MOVE_UP,2604
+Don't Be So Shy - Filatov & Karas Remix,81,2017-01-01,Imany,https://open.spotify.com/track/00vk0sEfb6mr2ehwSw0Uhn,Austria,top200,MOVE_DOWN,2559
+Stoff und Schnaps,82,2017-01-01,"Lil Kleine, Ronnie Flex",https://open.spotify.com/track/463oFGElXVcP8ueC72zvMj,Austria,top200,MOVE_DOWN,2523
+The Greatest (feat. Kendrick Lamar),83,2017-01-01,Sia,https://open.spotify.com/track/7xHWNBFm6ObGEQPaUxHuKO,Austria,top200,MOVE_DOWN,2431
+Let Me Hold You (Turn Me On),84,2017-01-01,"Dante Klein, Cheat Codes",https://open.spotify.com/track/0lmdsH1MIoLsMymnNpd6HU,Austria,top200,MOVE_DOWN,2426
+Hymn for the Weekend - Seeb Remix,85,2017-01-01,Coldplay,https://open.spotify.com/track/1OAiWI2oPmglaOiv9fdioU,Austria,top200,MOVE_DOWN,2422
+No Money,86,2017-01-01,Galantis,https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd,Austria,top200,MOVE_DOWN,2405
+Your Soul (Holding On),87,2017-01-01,"RHODES, Felix Jaehn",https://open.spotify.com/track/4nxvRweTK5ZZhbH3G7PuEn,Austria,top200,MOVE_DOWN,2362
+Ain't My Fault,88,2017-01-01,Zara Larsson,https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ,Austria,top200,MOVE_DOWN,2358
+Sorry,89,2017-01-01,Justin Bieber,https://open.spotify.com/track/69bp2EbF7Q2rqc5N3ylezZ,Austria,top200,MOVE_UP,2347
+Hulapalu,90,2017-01-01,Andreas Gabalier,https://open.spotify.com/track/7zja6rwquGA6vzLolzKrda,Austria,top200,MOVE_UP,2346
+Dancing On My Own,91,2017-01-01,Calum Scott,https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ,Austria,top200,MOVE_UP,2313
+Panda,92,2017-01-01,Desiigner,https://open.spotify.com/track/5OOkp4U9P9oL23maHFHL1h,Austria,top200,SAME_POSITION,2304
+Weak,93,2017-01-01,AJR,https://open.spotify.com/track/3E2Zh20GDCR9B1EYjfXWyv,Austria,top200,MOVE_UP,2271
+Lost on You,94,2017-01-01,LP,https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC,Austria,top200,MOVE_UP,2269
+Ham kummst,95,2017-01-01,Seiler und Speer,https://open.spotify.com/track/30t2cItUPY7CvZOup7zptn,Austria,top200,MOVE_UP,2234
+Fresh Eyes,96,2017-01-01,Andy Grammer,https://open.spotify.com/track/4nMlau89VAjmV7agkl7OY3,Austria,top200,MOVE_UP,2200
+Cake By The Ocean,97,2017-01-01,DNCE,https://open.spotify.com/track/2aFiaMXmWsM3Vj72F9ksBl,Austria,top200,MOVE_DOWN,2158
+Make Me (Cry),98,2017-01-01,"Noah Cyrus, Labrinth",https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP,Austria,top200,MOVE_UP,2122
+Work,99,2017-01-01,"Rihanna, Drake",https://open.spotify.com/track/14WWzenpaEgQZlqPq2nk4v,Austria,top200,MOVE_DOWN,2118
+Setting Fires,100,2017-01-01,"The Chainsmokers, XYLØ",https://open.spotify.com/track/0B8B8cVRFIG1yznoQe7c9s,Austria,top200,MOVE_DOWN,2065
+We Don't Talk Anymore (feat. Selena Gomez),101,2017-01-01,Charlie Puth,https://open.spotify.com/track/68EMU2RD1ECNeOeJ5qAXCV,Austria,top200,MOVE_UP,2025
+Musik sein,102,2017-01-01,Wincent Weiss,https://open.spotify.com/track/1UXyQicTgZI4PT4zflpodi,Austria,top200,MOVE_UP,2011
+Bad Things (with Camila Cabello),103,2017-01-01,Machine Gun Kelly,https://open.spotify.com/track/1PSBzsahR2AKwLJgx8ehBj,Austria,top200,MOVE_UP,1995
+Sing Me to Sleep,104,2017-01-01,Alan Walker,https://open.spotify.com/track/2Fjz5ZC5BvFdCqcnTZ3ilH,Austria,top200,MOVE_UP,1988
+The Sound of Silence,105,2017-01-01,Disturbed,https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi,Austria,top200,MOVE_UP,1968
+I Would Like,106,2017-01-01,Zara Larsson,https://open.spotify.com/track/4Q4jmPHwu0wrJvqrld0FQ6,Austria,top200,MOVE_UP,1957
+Broccoli (feat. Lil Yachty),107,2017-01-01,Shelley FKA DRAM,https://open.spotify.com/track/7yyRTcZmCiyzzJlNzGC9Ol,Austria,top200,MOVE_UP,1955
+Don't You Know - Radio Edit,108,2017-01-01,"Kungs, Jamie N Commons",https://open.spotify.com/track/0cAuqPI1R8RlFsXXWWO039,Austria,top200,MOVE_UP,1917
+This Is What You Came For (feat. Rihanna),109,2017-01-01,Calvin Harris,https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y,Austria,top200,MOVE_DOWN,1912
+Please Tell Rosie,110,2017-01-01,"Alle Farben, Younotus",https://open.spotify.com/track/2IDDQFHRf9iH35jeL89uNs,Austria,top200,MOVE_UP,1909
+Bad and Boujee (feat. Lil Uzi Vert),111,2017-01-01,Migos,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR,Austria,top200,MOVE_UP,1898
+Ain't Your Mama,112,2017-01-01,Jennifer Lopez,https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72,Austria,top200,MOVE_DOWN,1898
+What Do You Love,113,2017-01-01,"Seeb, Jacob Banks",https://open.spotify.com/track/0h4FK0CnlZ3oJnZ6quEk1P,Austria,top200,MOVE_DOWN,1893
+This Girl (Kungs Vs. Cookin' On 3 Burners),114,2017-01-01,Kungs,https://open.spotify.com/track/0tICYNayWWhH9GPeFrfjfD,Austria,top200,MOVE_DOWN,1881
+Trust Nobody (feat. Selena Gomez & Tory Lanez),115,2017-01-01,Cashmere Cat,https://open.spotify.com/track/2wDjpPW3HZdA9quPPmZAMu,Austria,top200,MOVE_UP,1871
+Love Yourself,116,2017-01-01,Justin Bieber,https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT,Austria,top200,MOVE_DOWN,1869
+An ihnen vorbei,117,2017-01-01,"Bonez MC, RAF Camora",https://open.spotify.com/track/7istTRCq9OK5cEC8sPAc50,Austria,top200,MOVE_UP,1853
+"i hate u, i love u (feat. olivia o'brien)",118,2017-01-01,gnash,https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe,Austria,top200,MOVE_UP,1818
+Heatwave (feat. Akon),119,2017-01-01,Robin Schulz,https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv,Austria,top200,MOVE_DOWN,1807
+Dynamite (feat. Pretty Sister),120,2017-01-01,Nause,https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg,Austria,top200,MOVE_UP,1794
+I'm in Love with the Coco,121,2017-01-01,Hitimpulse,https://open.spotify.com/track/7sU6BDmS1qwb78OpUMARPb,Austria,top200,MOVE_DOWN,1753
+Wenn sie tanzt,122,2017-01-01,Max Giesinger,https://open.spotify.com/track/5yKfZwcuSoEkOemLJX6hEm,Austria,top200,MOVE_UP,1753
+I Got You,123,2017-01-01,Bebe Rexha,https://open.spotify.com/track/1FUViuNSldssMIawrOXF2i,Austria,top200,MOVE_UP,1729
+Too Good,81,2017-01-01,"Drake, Rihanna",https://open.spotify.com/track/11KJSRSgaDxqydKYiD2Jew,Belgium,top200,MOVE_UP,3857
+Can't Hold Us - feat. Ray Dalton,124,2017-01-01,Macklemore & Ryan Lewis,https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn,Austria,top200,MOVE_DOWN,1709
+Die Immer Lacht - Radio 2016 Mix,125,2017-01-01,"Stereoact, Kerstin Ott",https://open.spotify.com/track/2qOMpFfLZ0agDTouBxUDCb,Austria,top200,MOVE_DOWN,1698
+Shout Out to My Ex,126,2017-01-01,Little Mix,https://open.spotify.com/track/0YHUITU3w6ws1v8ehT264g,Austria,top200,MOVE_DOWN,1684
+7 Years,127,2017-01-01,Lukas Graham,https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L,Austria,top200,MOVE_UP,1665
+Wonderwall - Remastered,128,2017-01-01,Oasis,https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa,Austria,top200,MOVE_UP,1645
+Spirits,129,2017-01-01,The Strumbellas,https://open.spotify.com/track/2H6dHxAxGq5oQ9EiinNpXT,Austria,top200,MOVE_UP,1631
+"How Far I'll Go - From ""Moana""",130,2017-01-01,Alessia Cara,https://open.spotify.com/track/5hYTyyh2odQKphUbMqc5gN,Austria,top200,MOVE_UP,1630
+Inside the Lines (feat. Casso),131,2017-01-01,Mike Perry,https://open.spotify.com/track/3qaYuV5XZAwiOvGE91HhwS,Austria,top200,MOVE_UP,1619
+Bianco,132,2017-01-01,"Yung Hurn, RIN",https://open.spotify.com/track/0ekFioHmdtwcITYOYXavl6,Austria,top200,MOVE_UP,1599
+Sofia,133,2017-01-01,Alvaro Soler,https://open.spotify.com/track/1VoHrSS3QQ6TbpabLrFiYb,Austria,top200,MOVE_UP,1586
+Lush Life,134,2017-01-01,Zara Larsson,https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8,Austria,top200,MOVE_DOWN,1586
+"Lose Yourself - From ""8 Mile"" Soundtrack",135,2017-01-01,Eminem,https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ,Austria,top200,MOVE_UP,1576
+Wannabe,136,2017-01-01,Spice Girls,https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT,Austria,top200,MOVE_DOWN,1573
+Love On The Brain,137,2017-01-01,Rihanna,https://open.spotify.com/track/2aksifNn5ph8igDOkPBA02,Austria,top200,MOVE_UP,1572
+Places,138,2017-01-01,"Martin Solveig, Ina Wroldsen",https://open.spotify.com/track/6O85MfGECKBqAK2MgSbCaj,Austria,top200,MOVE_DOWN,1561
+Mörder,139,2017-01-01,"Bonez MC, RAF Camora, Gzuz",https://open.spotify.com/track/6v6xHeuMLbCuddN0ETrGhs,Austria,top200,MOVE_UP,1541
+Juju on That Beat (TZ Anthem),140,2017-01-01,"Zay Hilfigerrr, Zayion McCall",https://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd,Austria,top200,MOVE_UP,1520
+Roses (feat. ROZES),141,2017-01-01,The Chainsmokers,https://open.spotify.com/track/6O6M7pJLABmfBRoGZMu76Y,Austria,top200,MOVE_UP,1512
+My House,142,2017-01-01,Flo Rida,https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1,Austria,top200,MOVE_DOWN,1512
+Hey Baby,143,2017-01-01,"Dimitri Vegas & Like Mike, Diplo, Deb’s Daughter",https://open.spotify.com/track/6yc377A8qxHIjPUcjGD4ET,Austria,top200,MOVE_DOWN,1510
+Willst du,144,2017-01-01,Alligatoah,https://open.spotify.com/track/3g62kHCCbNwhEKYywx5Xwz,Austria,top200,MOVE_UP,1503
+Don't Stop Believin',145,2017-01-01,Journey,https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue,Austria,top200,MOVE_UP,1501
+All Time Low,146,2017-01-01,Jon Bellion,https://open.spotify.com/track/1CnPYaKxTVb4LWOtiGOm0m,Austria,top200,MOVE_UP,1490
+This Town,147,2017-01-01,Niall Horan,https://open.spotify.com/track/5nA67Y0XX9JipZwYxX7Gl7,Austria,top200,NEW_ENTRY,1440
+False Alarm,148,2017-01-01,"Matoma, Becky Hill",https://open.spotify.com/track/7gZQfdEQpmwAoPHSbEHzms,Austria,top200,MOVE_DOWN,1436
+Bailar (feat. Elvis Crespo) - Radio Edit,149,2017-01-01,Deorro,https://open.spotify.com/track/1HCw8XKtTgWWU3JlEUR0qQ,Austria,top200,MOVE_DOWN,1436
+Love My Life,150,2017-01-01,Robbie Williams,https://open.spotify.com/track/1YW369EbVyjpeLE3YbsjKQ,Austria,top200,MOVE_UP,1427
+Lean On (feat. MØ & DJ Snake),151,2017-01-01,Major Lazer,https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4,Austria,top200,MOVE_UP,1425
+"Boom (feat. MOTi, TY Dolla $ign, Wizkid & Kranium)",152,2017-01-01,Major Lazer,https://open.spotify.com/track/3ghPeGA7IkGIZsrIKw9wbi,Austria,top200,MOVE_DOWN,1422
+Stitches,153,2017-01-01,Shawn Mendes,https://open.spotify.com/track/1WP1r7fuvRqZRnUaTi2I1Q,Austria,top200,MOVE_UP,1418
+Atemlos durch die Nacht,154,2017-01-01,Helene Fischer,https://open.spotify.com/track/5fPGpdC4tmcVMmTuJV2HRg,Austria,top200,MOVE_DOWN,1409
+Wake Up Where You Are,155,2017-01-01,State of Sound,https://open.spotify.com/track/2s76aKBWKShlwPC4xTtEEE,Austria,top200,MOVE_DOWN,1398
+Come First,156,2017-01-01,Terror Jr,https://open.spotify.com/track/5fo4LbJ8lOaB54wcM5wPMv,Austria,top200,NEW_ENTRY,1396
+Taped up Heart (feat. Clara Mae),157,2017-01-01,KREAM,https://open.spotify.com/track/26hcyzSE154xMZCbFdtInA,Austria,top200,MOVE_UP,1386
+Party Monster,158,2017-01-01,The Weeknd,https://open.spotify.com/track/4F7A0DXBrmUAkp32uenhZt,Austria,top200,MOVE_DOWN,1386
+Stronger,159,2017-01-01,Kanye West,https://open.spotify.com/track/6C7RJEIUDqKkJRZVWdkfkH,Austria,top200,MOVE_DOWN,1375
+Sugar (feat. Francesco Yates),160,2017-01-01,Robin Schulz,https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w,Austria,top200,MOVE_DOWN,1371
+Let's Hurt Tonight,161,2017-01-01,OneRepublic,https://open.spotify.com/track/1oc4kHthIpfa2jQnIL33GE,Austria,top200,NEW_ENTRY,1357
+Soits lebn,162,2017-01-01,Seiler und Speer,https://open.spotify.com/track/6pC9WwxPwliXagk4L8cnuD,Austria,top200,MOVE_UP,1354
+Too Good,163,2017-01-01,"Drake, Rihanna",https://open.spotify.com/track/11KJSRSgaDxqydKYiD2Jew,Austria,top200,MOVE_DOWN,1350
+10 Jahre,164,2017-01-01,"Gzuz, LX, Bonez MC, Maxwell",https://open.spotify.com/track/3KbCjPkewCmJt09FYtyVK5,Austria,top200,MOVE_UP,1342
+Whispering Still (feat. Charity Children) - Little Rose Remix,165,2017-01-01,SRTW,https://open.spotify.com/track/3D3Tkk0d9UmECpH5Fprmuv,Austria,top200,NEW_ENTRY,1331
+Mr. Brightside,166,2017-01-01,The Killers,https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN,Austria,top200,MOVE_DOWN,1325
+Without Me,167,2017-01-01,Eminem,https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk,Austria,top200,NEW_ENTRY,1312
+Once In a While,168,2017-01-01,Timeflies,https://open.spotify.com/track/6cREm4bV7V79Yxdilx9HDo,Austria,top200,MOVE_DOWN,1309
+Photograph,169,2017-01-01,Ed Sheeran,https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy,Austria,top200,NEW_ENTRY,1303
+Feel the Love - Sam Feldt Edit,170,2017-01-01,Janieck,https://open.spotify.com/track/3fJua408ovMRQ0JYGepaAY,Austria,top200,MOVE_UP,1303
+Please Don't Go,171,2017-01-01,Joel Adams,https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy,Austria,top200,NEW_ENTRY,1299
+Irgendwas (feat. Bengio),172,2017-01-01,Yvonne Catterfeld,https://open.spotify.com/track/3qlF4ENgFTbAbPZfFF9lxt,Austria,top200,NEW_ENTRY,1296
+Do It Right,173,2017-01-01,"Martin Solveig, Tkay Maidza",https://open.spotify.com/track/767AsV1cQwmOU4PJG96MzO,Austria,top200,MOVE_DOWN,1291
+Bleib in der Schule,174,2017-01-01,Trailerpark,https://open.spotify.com/track/0QjewL57d6QobAvn1JoQd9,Austria,top200,NEW_ENTRY,1276
+Ahnma,175,2017-01-01,"Beginner, Gzuz, Gentleman",https://open.spotify.com/track/5CXjevTAQIYO1Z0yyiOOno,Austria,top200,MOVE_DOWN,1273
+Never Be Like You,176,2017-01-01,"Flume, kai",https://open.spotify.com/track/12REd1n8PeiHHWOh066tpr,Austria,top200,MOVE_DOWN,1264
+Feel (feat. Sena Sener) - Radio Edit,177,2017-01-01,"Mahmut Orhan, Sena Şener",https://open.spotify.com/track/7Is0OPWVcN8DdZpcNuClcy,Austria,top200,MOVE_DOWN,1258
+DUELE EL CORAZON (feat. Wisin),178,2017-01-01,Enrique Iglesias,https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf,Austria,top200,MOVE_DOWN,1253
+Lighthouse - Andrelli Remix,179,2017-01-01,Hearts & Colors,https://open.spotify.com/track/04CttTezSnv71USiiG9mIo,Austria,top200,NEW_ENTRY,1249
+Geiles Leben - Madizin Single Mix,180,2017-01-01,Glasperlenspiel,https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2,Austria,top200,MOVE_DOWN,1248
+Talking to You,181,2017-01-01,Izzy Bizu,https://open.spotify.com/track/3N08HLCSwOHhMQKJGIZ7rE,Austria,top200,MOVE_DOWN,1247
+'Till I Collapse,182,2017-01-01,"Eminem, Nate Dogg",https://open.spotify.com/track/6yr8GiTHWvFfi4o6Q5ebdT,Austria,top200,NEW_ENTRY,1246
+Waves,183,2017-01-01,Dean Lewis,https://open.spotify.com/track/64xJ1MMFxxK6osZxJH857T,Austria,top200,NEW_ENTRY,1238
+Not Going Home (feat. Gia Koka),184,2017-01-01,"DVBBS, CMC$",https://open.spotify.com/track/042x9bsUBWW2fJgJ6fUh61,Austria,top200,NEW_ENTRY,1236
+Find You (feat. Jake Reese),185,2017-01-01,Topic,https://open.spotify.com/track/64qGiwJq4tO4wrxiY9CWjE,Austria,top200,MOVE_DOWN,1235
+Cake - Challenge Version,186,2017-01-01,"Flo Rida, 99 Percent",https://open.spotify.com/track/6t2ubAB4iSYOuIpRAOGd4t,Austria,top200,NEW_ENTRY,1224
+Billie Jean,187,2017-01-01,Michael Jackson,https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5,Austria,top200,MOVE_DOWN,1223
+Oceans Away,188,2017-01-01,A R I Z O N A,https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I,Austria,top200,NEW_ENTRY,1214
+Lost Boy,189,2017-01-01,Ruth B.,https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp,Austria,top200,NEW_ENTRY,1209
+Hello,190,2017-01-01,Adele,https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw,Austria,top200,MOVE_UP,1191
+Light,191,2017-01-01,San Holo,https://open.spotify.com/track/7zTx8ePYAmPFQuxP3xlXZn,Austria,top200,NEW_ENTRY,1188
+Erkläre mir die Liebe,192,2017-01-01,Philipp Poisel,https://open.spotify.com/track/3FTKzJI05mtKBIouwQcEpZ,Austria,top200,NEW_ENTRY,1186
+Purple Lamborghini (with Rick Ross),193,2017-01-01,Skrillex,https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ,Austria,top200,MOVE_DOWN,1185
+Wir sind groß,194,2017-01-01,Mark Forster,https://open.spotify.com/track/0bZcstGSV52WWUR8WkrW5p,Austria,top200,NEW_ENTRY,1180
+Love Me,195,2017-01-01,Jane XØ,https://open.spotify.com/track/1kFJTEnAvJ70S5mXplUAFR,Austria,top200,MOVE_DOWN,1177
+Boyfriends,196,2017-01-01,"Marco Wagner, Die Obersteirer",https://open.spotify.com/track/2tUxTQSGGteM7HljpqWU6J,Austria,top200,MOVE_DOWN,1173
+Love$ick (feat. A$AP Rocky),197,2017-01-01,Mura Masa,https://open.spotify.com/track/7Kq16WtEJzdRSNQgdXsn7Y,Austria,top200,MOVE_DOWN,1172
