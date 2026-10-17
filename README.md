@@ -4,7 +4,7 @@ Pasos para descargar el programa.
 
 1. Descargar Dataset.rar en el GitHub.
 
-<img width="567" height="189" alt="image" src="https://github.com/user-attachments/assets/504befcc-2e2b-4037-9f5e-a24512862804" />
+<img width="341" height="98" alt="image" src="https://github.com/user-attachments/assets/5be1343b-e43d-4d21-90b2-456fcbadc2dc" />
 
 2. Extraer el archivo y obtendrás una carpeta llamada Dataset.
 
