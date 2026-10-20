@@ -4,10 +4,6 @@
 # ==============================================================================
 
 def split_linea_csv(linea):
-    """
-    Función auxiliar: separa los campos de una línea de CSV respetando
-    las comillas dobles (ej: "J Balvin, Pharrell Williams") sin librerías externas.
-    """
     campos = []
     campo_actual = []
     dentro_de_comillas = False
@@ -25,10 +21,6 @@ def split_linea_csv(linea):
     return campos
 
 
-# ------------------------------------------------------------------------------
-# FUNCIÓN 1: Carga y procesamiento del dataset
-# Requisito: Cargar con open(), recorrer con bucles y procesar campos.
-# ------------------------------------------------------------------------------
 def cargar_datos(nombre_archivo):
     """
     Lee el archivo CSV de 50 filas usando open() y la función auxiliar.
@@ -62,10 +54,6 @@ def cargar_datos(nombre_archivo):
     return datos
 
 
-# ------------------------------------------------------------------------------
-# FUNCIÓN 2: Funcionalidad Obligatoria 1 - Búsqueda por texto
-# Requisito: Mostrar coincidencias y contar el total encontrado.
-# ------------------------------------------------------------------------------
 def buscar_registros(datos, termino_busqueda):
     """
     Busca coincidencias de texto en el título, artista, región o tendencia (trend).
@@ -93,10 +81,7 @@ def buscar_registros(datos, termino_busqueda):
     return len(coincidencias)
 
 
-# ------------------------------------------------------------------------------
-# FUNCIÓN 3: Funcionalidad Obligatoria 2 - Estadísticas Básicas
-# Requisito: Máximo, mínimo y promedio usando bucles y acumuladores.
-# ------------------------------------------------------------------------------
+
 def calcular_estadisticas(datos, indice_columna, nombre_campo):
     """
     Calcula el valor máximo, mínimo y promedio de 'rank' o 'streams' sin funciones integradas.
@@ -105,7 +90,7 @@ def calcular_estadisticas(datos, indice_columna, nombre_campo):
         print("No hay datos cargados.")
         return None
 
-    # Inicializamos acumuladores con el primer registro
+    
     primer_valor = datos[0][indice_columna]
     maximo = primer_valor
     minimo = primer_valor
@@ -132,10 +117,7 @@ def calcular_estadisticas(datos, indice_columna, nombre_campo):
     return {"maximo": maximo, "minimo": minimo, "promedio": promedio}
 
 
-# ------------------------------------------------------------------------------
-# FUNCIÓN 4: Funcionalidad Opcional - Filtrar por condición numérica
-# Requisito: Mostrar registros donde un campo numérico supere un umbral.
-# ------------------------------------------------------------------------------
+
 def filtrar_por_condicion(datos, indice_columna, umbral, nombre_campo):
     """
     Filtra los registros cuyo valor de 'streams' supere un umbral o cuyo 'rank' sea superior/mejor.
@@ -157,9 +139,7 @@ def filtrar_por_condicion(datos, indice_columna, umbral, nombre_campo):
     return filtrados
 
 
-# ------------------------------------------------------------------------------
-# MENÚ INTERACTIVO DE CONSOLA
-# ------------------------------------------------------------------------------
+
 def menu():
     archivo = "spotify_pequeño.csv"
     
