@@ -5,6 +5,8 @@ Detalles para tener en cuenta:
 
 - El link del video de explicación, el póster y las contribuciones de cada integrante en el proyecto se encuentran subidas en el repositorio.
 
+- En el repositorio también se encuentra el dataset utilizado en esta primera entrega y el dataset que vamos a utilizar en las próximas entregas.
+
 Pasos para descargar el programa.
 
 1. Descargar Dataset.rar en el GitHub.
