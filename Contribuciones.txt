@@ -8,3 +8,4 @@ Contribuciones de manera individual:
 
 Juan Miguel Berrío Cardona: Creador del repositorio y desarrollador del código en conjunto con Nelson Javier Cifuentes Albaran.
 Tomás Felipe Tijaro Aldana: Ponente técnico en el video explicativo del código de Spotify en trabajo con Samuel Sogamoso.
+Samuel Antonio Sogamoso Morales: Narrador y editor del video explicativo del codigo del datalab.
