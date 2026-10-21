@@ -1,4 +1,9 @@
 # Dataset-basado-en-Spotify
+Detalles para tener en cuenta:
+
+- En el repositorio hay un código con comentarios detallados explicando qué hace cada parte; en la carpeta del programa que vamos a descargar está exactamente el mismo código, pero sin comentarios.
+
+- El link del video de explicación, el póster y las contribuciones de cada integrante en el proyecto se encuentran subidas en el repositorio.
 
 Pasos para descargar el programa.
 
